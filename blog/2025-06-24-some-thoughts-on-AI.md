@@ -91,7 +91,7 @@ I think the most interesting questions posed by AI require us to look a little f
 
 What does the future of work and employment look like for an 11 year-old entering secondary school this autumn, given that they won't enter the traditional world of employment for anything between 5, 7, 10, or even 12 or more years, depending on their aptitudes and choices around further education and vocation?
 
-What new skills will our educators need to learn in order to teach the kids of the future in a way that prepares them for the emerging reality of the world they are gorwin up into?
+What new skills will our educators need to learn in order to teach those kids — the workers of the future — in a way that prepares them for the emerging reality of the world they are growing up into?
 
 What existing jobs will evaporate before they could even consider them, and what new opportunities will arise for them?
 
