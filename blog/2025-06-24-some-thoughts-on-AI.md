@@ -111,6 +111,6 @@ Who knows, but I think I'd prefer the Star Trek future of replicators delivering
 
 [^5]: Let's not get into the em-dash with or without spaces argument — I prefer them spaced as they look crowded to me without — this is my blog so I get to set the house style!
 
-[^6]: I'll likely write something about the pros and cons of individual tools in the near future, as this is something that I am looking into at work as pasrt of ensuring that our teams have the right tools at their disposal in this evolving landscape, but Abraham Maslow's old adage that "If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail" is still relevant.
+[^6]: I'll likely write something about the pros and cons of individual tools in the near future, as this is something that I am looking into at work as part of ensuring that our teams have the right tools at their disposal in this evolving landscape, but Abraham Maslow's old adage that "If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail" is still relevant.
 
 [^7]: OK, so there's some scholarly debate about whether Heraclitus ever actually said that, and what he actually meant if he did say that, but until such time as I unexpectedly pivot careers into ancient Greek philosophy I will have to [leave it up to this guy to be pedantic about it](https://euppublishingblog.com/2021/07/19/misunderstanding-of-heraclitus/)
