@@ -1,0 +1,10 @@
+marketing:
+  label: Marketing
+  permalink: /marketing
+  description: Posts about marketing
+
+ai:
+  label: AI
+  permalink: /ai
+  description: AI
+

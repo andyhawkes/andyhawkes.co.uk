@@ -1,0 +1,11 @@
+andyhawkes:
+  name: Andy Hawkes
+  # title: Easily distracted professional geek
+  url: https://github.com/andyhawkes
+  image_url: /img/mugshot.jpg
+  page: true
+  socials:
+    # x: andyhawkes
+    github: andyhawkes
+    linkedin: andyhawkes
+    bluesky: andyhawkes.co.uk
