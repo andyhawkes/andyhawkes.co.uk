@@ -15,7 +15,8 @@ The idea is simple - at a single point in time, every single human being receive
 
 What from will this project take? Who knows!
 
-If you've read any of the stuff in ["The man who forgot himself"](/writing/the-man-who-forgot-himself), you will know that my brain works in atypical ways, so I have some disjointed ideas that span prose, screenwriting, and comic book formats.
+<!-- If you've read any of the stuff in ["The man who forgot himself"](/writing/the-man-who-forgot-himself), you will know that  -->
+My brain works in atypical ways, so I have some disjointed ideas that span prose, screenwriting, and comic book formats.
 
 So basically, let's see what it becomes!
 
