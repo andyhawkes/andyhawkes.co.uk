@@ -49,4 +49,4 @@ The question is, will I do it?
 
 Am I having a mid-life crisis, or are my diamond shoes just a bit too tight?
 
-Oiginally posted on [Medium](https://medium.com/@andyhawkes/a29e9bce4b78)
+Originally posted on [Medium](https://medium.com/@andyhawkes/a29e9bce4b78)
