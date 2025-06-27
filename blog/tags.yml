@@ -8,3 +8,32 @@ ai:
   permalink: /ai
   description: AI
 
+career:
+  label: Career
+  permalink: /career
+  description: Posts about career development and advice
+
+Politics:
+  label: Politics
+  permalink: /politics
+  description: Posts about politics
+
+Smart tech:
+  label: Smart technology
+  permalink: /smart-technology
+  description: Posts about smart technology
+
+Calm technology:
+  label: Calm technology
+  permalink: /calm-technology
+  description: Posts about calm technology
+
+Creativity:
+  label: Creativity
+  permalink: /creativity
+  description: Posts about creativity
+
+Digital:
+  label: Digital
+  permalink: /digital
+  description: Posts about the digital industry

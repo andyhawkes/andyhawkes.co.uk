@@ -129,6 +129,19 @@ const config = {
             ],
           },
           {
+            title: 'Personal projects',
+            items: [
+              {
+                label: 'Chef-o-tron',
+                to: 'https://chef-o-tron.andyhawkes.co.uk',
+              },
+              {
+                label: 'Drink-o-tron',
+                to: 'https://drink-o-tron.andyhawkes.co.uk',
+              }
+            ],
+          },
+          {
             title: 'More',
             items: [
               {

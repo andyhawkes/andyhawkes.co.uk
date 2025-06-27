@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# I don't spy with no mind's eye...
+# I don't spy with no mind's eye…
 
 So, I have [aphantasia](https://aphantasia.com/what-is-aphantasia/).
 
