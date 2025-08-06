@@ -2,7 +2,7 @@
 
 Welcome to my very rudimentary personal website, which can probably best be described as:
 
-> "some general guff and links from a guy who is variously: VP Product Engineering & Architecture at [Deltatre](https://www.deltatre.com/streaming-and-digital), a tinkerer / maker and breaker of things, a biker, a bespoke liqueur maker, a craft beer aficionado, and an apprentice polymath"
+> "some thoughts, opinions, pontification, links, and general guff from a guy who is variously: VP Product Engineering & Architecture at [Deltatre](https://www.deltatre.com/streaming-and-digital), a tinkerer / maker and breaker of things, a biker, a bespoke liqueur maker, a craft beer aficionado, and an apprentice polymath"
 
 In other words, I am an easily distracted professional geek with no other qualifications in anything tangible or useful in the real world.
 
@@ -12,7 +12,7 @@ I still look vaguely like this photo, but a bit older and much more tired.
 
 I have been creating websites and working with "the internet" in one way or another for over 30 years, and this version of my site is built using [Docusaurus](https://docusaurus.io/), because it's quick and easy.
 
-First I did stuff on the web for fun, then I got paid to do it, and now I get paid to manage other people to do it much better than I can any more.
+First I did stuff on the web for fun, then I got paid to do it, and now I get paid to direct and manage other people who manage people who do it much better than I can any more.
 
 This website is deliberately very simple, because for me it's more about putting _something_ together rather than doing something "fancy".
 
