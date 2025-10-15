@@ -40,13 +40,13 @@ As I wrote before:
 
 And yet I still find myself wondering if there's something I am missing.
 
-If I follow in the footsteps of my father and his father before him, my heart will give up beating when I am 71 — for those keeing count so far, that would mean I have 21 years and change to go.
+If I follow in the footsteps of my father and his father before him, my heart will give up beating when I am 71 — for those keeping count so far, that would mean I have 21 years and change to go.
 
 That leads to some further realisations:
 
-* Given that the state pension won't kick in for me until I hit 67, that would give me a mere 4 years of state-funded retirement after 46 years of working life, which is a pretty shitty return on investment!
-* I want to retire earlier or have a decent time of it I had better make sure my personal pension pot is as healthy as possible!
 * If I wanted to have an accurate mid-life crisis I should have been doing it 15 years ago.
+* Given that the state pension won't kick in for me until I hit 67, that would give me a mere 4 years of state-funded retirement after 46 years of working life, which is a pretty shitty return on investment!
+* If I want to retire earlier or have a decent time of it I had better make sure my personal pension pot is as healthy as possible!
 * If I'm going to significantly out-live my forebears and make this a mathematically accurate mid-life crisis then I'll need to live to 100
 * Bloody hell, I really am going to need that pension pot, aren't I?!?
 
@@ -54,11 +54,11 @@ So, with [AI snapping at the heels of many office jobs](/blog/some-thoughts-on-a
 
 As much as it could be tempting, I'm not likely to retrain as an electrician or plumber.
 
-I was chatting to a friend about our respective career paths recently and he suggested I should pursue a more directly product-oriented focus, as recruitment there seems to be booming while tech recruitment is seemingly stalled.
+I was chatting to a friend about our respective career paths recently and he suggested I should pursue a more directly product-oriented focus, as recruitment there seems to be booming while wider tech recruitment is seemingly stalled.
 
 It's something that struck a bit of a chord.
 
-I realised that I have spent quite a lot of my career acting as Product Owner or Product Manager — either because those roles didn't exist yet, or because the project I was working on was generally led from a marketing perspective by the client, so as the developer / Technical Director / insert other job title from my CV here I was the de-facto owner of the "product" even when wew were working on something relatively short-lived and campaign-driven.
+I realised that I have spent quite a lot of my career acting as Product Owner or Product Manager — either because those roles didn't exist yet, or because the project I was working on was generally led from a marketing perspective by the client, so as the developer / Technical Director / insert other job title from my CV here I was the de-facto owner of the "product", even when wew were working on something relatively short-lived and campaign-driven.
 
 So, how does a technologist turned technical manager turned technical director turned senior technical leader re-position and re-focus themselves and their CV / resume / [LinkedIn profile](https://linkedin.com/in/andyhawkes) through a product lens?
 
