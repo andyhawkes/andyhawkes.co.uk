@@ -17,7 +17,7 @@ To be fair, it's apparently been coming for my job for several years, but it see
 
 That being said, on the evidence I have seen so far, it's not quite clawing at my front door yet.
 
-I use various AI tools on a regular basis — from Copilot when I dive into code (which is quite rare these days) to ChatGPT for summarising documents, generating document outlines, RACI matrices etc., to smart tools in Google Photos that help me to remove unwanted photo-bombers or tweak my selfie pout — so I am certainly not an AI refusenik.
+I use various AI tools on a ~~regular~~ daily basis — from Copilot when I dive into code (which is quite rare these days) to ChatGPT for summarising documents, generating document outlines, RACI matrices etc., to smart tools in Google Photos that help me to remove unwanted photo-bombers or tweak my selfie pout — so I am certainly not an AI refusenik.
 
 There are some great tools out there, and they're getting better all the time, but the key point for me is that you need to actively review *everything* they produce.
 
