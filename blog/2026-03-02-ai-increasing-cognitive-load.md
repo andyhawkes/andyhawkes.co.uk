@@ -19,7 +19,7 @@ I'm pretty sure it's not actively making me more stupid (yet), which is good, bu
 
 That may seem a little counterintuitive given that AI tools are actually very good at synthesising disparate information, rationalising data, and proposing what are often quite cogent options, so it should take away cognitive load rather than cause or exacerbate it.
 
-To understand the issue fully, we need to add some context. (AI tools *love* context.)
+To understand the issue fully, we need to add some context. (AI tools _love_ context.)
 
 The first pertinent fact here is that my brain is geared for focus, systems thinking, and complex problem solving. I _can_ do multiple concurrent, short-focus, shallow-depth activities, but it's not what I do best and as a consequence it's not where or how I add most value.
 
