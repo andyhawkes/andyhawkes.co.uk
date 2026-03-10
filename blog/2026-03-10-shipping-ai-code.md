@@ -50,7 +50,7 @@ From that you can understand whether delivering features like a machinegun is ac
 
 ## Want my advice?
 
-Odf course you do, but it's kind of you to ask anyway!
+Of course you do, but it's kind of you to ask anyway!
 
 > Use AI as you would use a team of very enthusiastic employees of variable quality, experience, and attention to detail.
 
@@ -71,4 +71,4 @@ No matter how good your prompts, skills files, and rules are, LLMs are still non
 [^2]: This prompts another round of introspection - what is "value" for you, your clients, and their customers? For you and the client, value can be a stable and easily supportable platform rather than a shiny "feature" that is largely or completely ancillary to the end customer or actual business value. For the end customer it can be a simple "quality of life improvment" that reduces friction and in turn improves retention for your client. Having worked with websites and consumer applications for 25+ years I can be reasonably confident in saying that you would be very surprised what real users actually value compared to what a business ascribes value to.
 
 [^3]: I am not really a modern app developer. I am an old-school, "hand-rolled code with minimal frameworks" kind of web developer and I have never properly built my own stuff with React, let alone React Native — largely because I haven't been actively coding in exchange for coins for 15 years or so, on account of having talented people to do that for me these days. Working on a green-field app as a both a learning project and a field test of my agentic framework is very interesting so far though.
-In case you're interested, I picked a backgammon app because my wife and I both like playing Backgammon casually, the app I currently have on my phone is riddled with ads that interrupt gameplay, and backgammon has very simple rules and a probabalistic structure that makes it pretty suitable for a side project. With me being me, however, I have already mapped out an detailed enhanced feature set and potential revenue model, just in case I decide to try and make it into something that could pay enough for me to quit my day job...
+In case you're interested, I picked a backgammon app because my wife and I both like playing Backgammon casually, the app I currently have on my phone is riddled with ads that interrupt gameplay, and backgammon has very simple rules and a probabalistic structure that makes it pretty suitable for a side project. With me being me, however, I have already mapped out a detailed enhanced feature set and potential revenue model, just in case I decide to try and make it into something that could pay enough for me to quit my day job...
