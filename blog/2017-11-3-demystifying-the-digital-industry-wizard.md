@@ -1,8 +1,10 @@
 ---
 slug: demystifying-the-digital-industry-wizard
 title: Demystifying the modern digital industry "wizard"
+date: 2017-11-03
 authors: [andyhawkes]
 tags: [Digital, Coding]
+description: Been monkeying about on the web since the mid 90s - exploring why digital work is seen as magical by those outside the specialism.
 ---
 
 Hi, my name is Andy and I am a technologist. I’ve been monkeying about on the web since the mid 90s in one form or another, and I seem to have somehow turned some initial tinkering with very early HTML [^1] whilst avoiding my University coursework into a subsequent career in the London digital industry.

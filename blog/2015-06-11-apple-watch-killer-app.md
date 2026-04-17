@@ -1,8 +1,10 @@
 ---
 slug: apple-watch-killer-app
 title: Is the Apple Watch its own killer app?
+date: 2015-06-11
 authors: [andyhawkes]
 tags: [Smart tech, Wearables]
+description: "Despite fanfare and prolific advance sales, many commentators are struggling with an existential issue: what is it?"
 ---
 
 Despite the fanfare and prolific advance sales of the Apple Watch when it was launched, many technology commentators are struggling with an existential issue: what *is* it?

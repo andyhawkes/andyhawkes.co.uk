@@ -1,8 +1,10 @@
 ---
 slug: discretely-smart
 title: Calm down dear, it's only a wearable device!
+date: 2015-03-02
 authors: [andyhawkes]
 tags: [Smart tech, Calm technology]
+description: Mobile World Congress 2015 and the rush of wearable technology - but how compelling are these new devices really?
 ---
 
 Mobile World Congress 2015 is happening this week, and that means that a slew of shiny new slabs of technology will be touted with much gusto and hyperbole by their proud makers, and you can also rest assured (with a certain grim inevitably) that there will be a mountain of new accessories and companion products doing the rounds too, many of which will fall under the current buzzword du jour, "wearable".

@@ -6,6 +6,8 @@ Welcome to my very rudimentary personal website, which can probably best be desc
 
 In other words, I am an easily distracted professional geek with no other qualifications in anything tangible or useful in the real world.
 
+I spend most of my time thinking about how engineering teams and organisations actually work, particularly as the pace of delivery increases.
+
 ![A headshot that I had taken at work several years ago](/img/mugshot.jpg)
 
 I still look vaguely like this photo, but a bit older and much more tired.
@@ -20,7 +22,7 @@ So don't come at me with your shiny new frameworks and whatnot - I remember brow
 
 At it's heart, this site is a vague attempt to bring together some of the various things I have done, thought about, or written over the years.
 
-The [blog](blog) pulls together some of the assorted thoughts and "blog type things" I have put online via various tools and platforms over many years — I have tracked down some stuff back to 2009 so far — with varying degrees of success and/or longevity.
+The [blog](/blog) pulls together some of the assorted thoughts and "blog type things" I have put online via various tools and platforms over many years — I have tracked down some stuff back to 2009 so far — with varying degrees of success and/or longevity.
 
 <!-- The [writing](writing) section is an attempt to get some of the longer ideas that have been bouncing round my head down in writing in some form. Some of it might be interesting to people who aren't me. Some of it probably isn't. But it's here anyway - hurray for the internet! -->
 

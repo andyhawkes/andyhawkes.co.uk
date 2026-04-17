@@ -1,8 +1,10 @@
 ---
 slug: how-smart-are-your-smart-devices
 title: How smart are your "smart" devices?
+date: 2014-07-14
 authors: [andyhawkes]
 tags: [Smart tech]
+description: "Smartness in devices only comes about when they become frictionless and nigh-on ubiquitous, without requiring conscious human attention."
 ---
 
 There’s been some interesting thinking coming out of [Dan Hon’s thoroughly excellent daily email newsletter](http://tinyletter.com/danhon) recently around what “smart” devices really are, and I’m inclined to agree with a lot of the thoughts in [this particular post](http://tinyletter.com/danhon/letters/episode-one-hundred-and-sixteen-the-material-3-odds).

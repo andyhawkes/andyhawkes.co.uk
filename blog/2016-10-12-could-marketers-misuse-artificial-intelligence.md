@@ -1,8 +1,10 @@
 ---
 slug: marketers-misuse-ai
 title: Could marketers misuse artificial intelligence?
+date: 2016-10-12
 authors: [andyhawkes]
 tags: [Marketing, AI]
+description: Everyone is talking about AI - my hope is that brands will use it to make interactions with consumers more personal, subtle, and human.
 ---
 
 It seems like everyone is talking about AI at the moment, from [your humble correspondent](http://www.marketingtechnews.net/news/2016/oct/12/could-marketers-misuse-artificial-intelligence/) to [Barack Obama](http://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/)

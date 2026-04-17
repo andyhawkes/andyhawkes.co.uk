@@ -56,3 +56,9 @@
 .pagination-nav__link--next .pagination-nav__label::after {
   content: ' →';
 }
+
+.home-main-content {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}

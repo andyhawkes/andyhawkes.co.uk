@@ -1,39 +1,204 @@
-marketing:
-  label: Marketing
-  permalink: /marketing
-  description: Posts about marketing
-
-ai:
+AI:
   label: AI
   permalink: /ai
-  description: AI
+  description: Artificial intelligence, machine learning, and AI tooling
 
-career:
+Career:
   label: Career
   permalink: /career
-  description: Posts about career development and advice
+  description: Career development, leadership, and professional growth
 
-Politics:
-  label: Politics
-  permalink: /politics
-  description: Posts about politics
+Coding:
+  label: Coding
+  permalink: /coding
+  description: Software development and coding practices
 
-Smart tech:
-  label: Smart technology
-  permalink: /smart-technology
-  description: Posts about smart technology
-
-Calm technology:
-  label: Calm technology
-  permalink: /calm-technology
-  description: Posts about calm technology
-
-Creativity:
-  label: Creativity
-  permalink: /creativity
-  description: Posts about creativity
+Development:
+  label: Development
+  permalink: /development
+  description: Software development approaches and methodologies
 
 Digital:
   label: Digital
   permalink: /digital
-  description: Posts about the digital industry
+  description: The digital industry and digital transformation
+
+Technology:
+  label: Technology
+  permalink: /technology
+  description: General technology topics and observations
+
+Agile:
+  label: Agile
+  permalink: /agile
+  description: Agile methodologies and delivery practices
+
+Smart tech:
+  label: Smart technology
+  permalink: /smart-technology
+  description: Smart devices and connected technology
+
+Calm technology:
+  label: Calm technology
+  permalink: /calm-technology
+  description: Calm technology principles and design
+
+Marketing:
+  label: Marketing
+  permalink: /marketing
+  description: Marketing, branding, and customer communications
+
+Creativity:
+  label: Creativity
+  permalink: /creativity
+  description: Creative thinking and creative processes
+
+Education:
+  label: Education
+  permalink: /education
+  description: Education, learning, and knowledge sharing
+
+Politics:
+  label: Politics
+  permalink: /politics
+  description: Politics and political commentary
+
+Wearables:
+  label: Wearables
+  permalink: /wearables
+  description: Wearable devices and technology
+
+Voice interfaces:
+  label: Voice interfaces
+  permalink: /voice-interfaces
+  description: Voice interfaces and voice-activated technology
+
+Alexa:
+  label: Alexa
+  permalink: /alexa
+  description: Amazon Alexa and voice assistants
+
+Google Assistant:
+  label: Google Assistant
+  permalink: /google-assistant
+  description: Google Assistant and voice technology
+
+Chatbots:
+  label: Chatbots
+  permalink: /chatbots
+  description: Chatbots and conversational AI
+
+AR:
+  label: AR
+  permalink: /ar
+  description: Augmented reality
+
+VR:
+  label: VR
+  permalink: /vr
+  description: Virtual reality
+
+MR:
+  label: MR
+  permalink: /mr
+  description: Mixed reality
+
+xR:
+  label: xR
+  permalink: /xr
+  description: Extended reality
+
+Tinkering:
+  label: Tinkering
+  permalink: /tinkering
+  description: Hardware projects and tinkering
+
+Raspberry Pi:
+  label: Raspberry Pi
+  permalink: /raspberry-pi
+  description: Raspberry Pi projects and hacking
+
+Vibe coding:
+  label: Vibe coding
+  permalink: /vibe-coding
+  description: AI-assisted and intuitive coding approaches
+
+Jargon:
+  label: Jargon
+  permalink: /jargon
+  description: Tech jargon and terminology
+
+Humour:
+  label: Humour
+  permalink: /humour
+  description: Posts with humor and satire
+
+UK:
+  label: UK
+  permalink: /uk
+  description: UK-specific topics and commentary
+
+Brexit:
+  label: Brexit
+  permalink: /brexit
+  description: Brexit and related topics
+
+Security:
+  label: Security
+  permalink: /security
+  description: Security, privacy, and digital safety
+
+Real estate:
+  label: Real estate
+  permalink: /real-estate
+  description: Real estate and property
+
+PechaKucha:
+  label: PechaKucha
+  permalink: /pecha-kucha
+  description: PechaKucha presentations and talks
+
+Public speaking:
+  label: Public speaking
+  permalink: /public-speaking
+  description: Public speaking, presentations, and conferences
+
+Awards:
+  label: Awards
+  permalink: /awards
+  description: Awards, recognition, and achievements
+
+Agency life:
+  label: Agency life
+  permalink: /agency-life
+  description: Working in agencies and agency culture
+
+Social media:
+  label: Social media
+  permalink: /social-media
+  description: Social media platforms and culture
+
+Steampunk:
+  label: Steampunk
+  permalink: /steampunk
+  description: Steampunk aesthetics and culture
+
+Liquers:
+  label: Liqueurs
+  permalink: /liqueurs
+  description: Liqueurs, cocktails, and drink-making
+
+University:
+  label: University
+  permalink: /university
+  description: University education and student life
+
+Ageing:
+  label: Ageing
+  permalink: /ageing
+  description: Ageing, getting older, and age-related topics
+
+archived:
+  label: Archived
+  permalink: /archived
+  description: Older archived posts

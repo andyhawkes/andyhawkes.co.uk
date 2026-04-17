@@ -1,8 +1,10 @@
 ---
 slug: am-I-having-a-mid-life-crisis
 title: Am I having a mid-life crisis?
+date: 2014-06-17
 authors: [andyhawkes]
 tags: [Career, Digital]
+description: Or, are my diamond shoes just a bit too tight? An existential debate about what I actually do each day.
 ---
 
 Or, **are my diamond shoes just a bit too tight?**

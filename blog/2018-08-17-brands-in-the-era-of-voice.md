@@ -1,8 +1,10 @@
 ---
 slug: brands-in-the-era-of-voice
 title: Brands in the era of voice
+date: 2018-08-17
 authors: [andyhawkes]
 tags: [Voice interfaces, Alexa, Google Assistant]
+description: "There has been a lot of chatter about how voice interfaces like Amazon Alexa are going to kill brands - but is that really the case?"
 ---
 
 There has been a lot of chatter about how voice interfaces like Amazon Alexa or Google Home are going to “kill brands".

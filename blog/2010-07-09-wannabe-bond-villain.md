@@ -1,8 +1,10 @@
 ---
 slug: wannabe-bond-villain
 title: All I ever wanted to do was be a Bond villain
+date: 2010-07-09
 authors: [andyhawkes]
 tags: [Real estate, Career]
+description: Since I was a kid my only real career aspiration has been to become a Bond-style villain and hold the world to ransom.
 ---
 
 # All I ever wanted to do was be a Bond villain

@@ -1,8 +1,10 @@
 ---
 slug: AI-is-a-force-multiplier
 title: AI is a force multiplier
+date: 2025-11-06
 authors: [andyhawkes]
 tags: [AI, Coding, Development]
+description: There's still a lot of guff about whether the AI bubble will burst - but AI is a tool and basically a force multiplier.
 ---
 
 There's still a lot of guff floating about out there about whether the AI bubble is going to burst[^1] , whether AI coding is "good enough yet" ([see my previous comments on my previous comments on vibe coding](/blog/is-vibe-coding-a-recipe-for-disaster)), and whether AI is the silver bullet solution to your problem.

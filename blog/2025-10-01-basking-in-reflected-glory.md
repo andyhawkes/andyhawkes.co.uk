@@ -1,8 +1,10 @@
 ---
 slug: basking-in-reflected-glory
 title: Basking in reflected glory
+date: 2025-10-01
 authors: [andyhawkes]
 tags: [Awards, Agency life]
+description: R/GA was voted one of the 30 most iconic companies in internet history according to the Webby awards.
 ---
 
 I'm generally ~~a bit~~ painfully averse to the big agency hagiography that goes on in that particular world, but I was actually quite struck that [R/GA was voted as one of the "30 most iconic companies in internet history" according to the Webby awards](https://www.webbyawards.com//webby30/most-iconic-companies-r-ga/).

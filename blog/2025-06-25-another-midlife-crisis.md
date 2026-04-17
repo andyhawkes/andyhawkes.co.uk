@@ -1,8 +1,10 @@
 ---
 slug: another-midlife-crisis
 title: Another mid-life crisis? Really?!?
+date: 2025-06-25
 authors: [andyhawkes]
 tags: [Career]
+description: It's been 11 years since I last wrote about a potential mid-life crisis, and as I'm now a month away from my 50th birthday it seemed like a good topic to revisit.
 ---
 
 It's been 11 years since I last [wrote about a potential mid-life crisis](/blog/am-I-having-a-mid-life-crisis) and career change, and as I'm now a mere month away from my 50th birthday it seemed like a good topic to revisit!

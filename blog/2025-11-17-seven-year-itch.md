@@ -1,8 +1,10 @@
 ---
 slug: seven-year-itch
 title: The seven year itch?
+date: 2025-11-17
 authors: [andyhawkes]
 tags: [Career]
+description: I've been working at Deltatre for 6 years and 9 months - as long as I've worked for any company in my career so far.
 ---
 
 I realised recently that I have now been working at [Deltatre](https://www.deltatre.com) for as long as I have worked for any company in my career so far - 6 years and 9 months.

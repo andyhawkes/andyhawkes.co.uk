@@ -1,8 +1,10 @@
 ---
 slug: digital-snooping-revelations
 title: An alt-history version of the latest UK / USA digital snooping revelations
+date: 2013-09-06
 authors: [andyhawkes]
 tags: [Politics, Security]
+description: The governments of the USA and UK have managed to acquire unwarranted access to digital communications and crack encryption.
 ---
 
 So, the governments of the USA and UK have managed to acquire unwarranted access to pretty much any and all digital communications, and now they can crack encryption?

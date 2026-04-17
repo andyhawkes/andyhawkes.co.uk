@@ -1,8 +1,10 @@
 ---
 slug: make-all-the-things-smart
 title: Make all the things smart!
+date: 2014-06-16
 authors: [andyhawkes]
 tags: [Smart tech, Wearables]
+description: Connected devices, the Internet of Things, smart watches - exploring what we actually call this stuff and how to sell it to real people.
 ---
 
 Connected devices, the "Internet of Things", smart watches, and all that jazz.

@@ -1,8 +1,10 @@
 ---
 slug: work-clock
 title: Work clock - a slightly unusual desk clock
+date: 2024-02-26
 authors: [andyhawkes]
 tags: [Tinkering, Coding, Raspberry Pi]
+description: I wanted a clock for my office, so I built an unusual one with a Raspberry Pi and an e-ink screen.
 ---
 
 I wanted a clock for my office, and couldn't decide what I wanted, so I opted to make a slightly unusual one with a Raspberry Pi and an e-ink screen.

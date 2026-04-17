@@ -1,8 +1,10 @@
 ---
 slug: what-price-education
 title: The value of a university education, 20 years on
+date: 2013-06-16
 authors: [andyhawkes]
 tags: [Education, University, Career]
+description: Reflections on how little of my university education actually relates to education, despite spending three years as an undergraduate.
 ---
 
 I went to a university reunion recently - ostensibly to celebrate the 50th aniversary of the founding of York University, but mostly to catch up with the old York RAG crowd with whom I spent most of my 3 years as an undergraduate.

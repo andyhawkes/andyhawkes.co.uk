@@ -1,8 +1,10 @@
 ---
 slug: does-agile-really-work
 title: Does agile really work?
+date: 2025-08-06
 authors: [andyhawkes]
 tags: [Agile, Technology]
+description: "A job post looking for people who can get things done without too much process made me wonder what Agile is trying to address."
 ---
 
 A friend sent me an [interesting job post](https://www.linkedin.com/jobs/view/4196406856/) the other week, where the hiring manager was looking for people who can dive in and get things done without too much process getting in the way, and it struck me as being a breath of fresh air in a world of process-driven teams and particularly Agile being presented as the de-facto saviour of software development.

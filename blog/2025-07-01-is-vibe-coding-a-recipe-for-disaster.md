@@ -1,8 +1,10 @@
 ---
 slug: is-vibe-coding-a-recipe-for-disaster
 title: Is "vibe coding" a recipe for disaster?
+date: 2025-07-01
 authors: [andyhawkes]
 tags: [AI, Coding, Development, Vibe coding]
+description: Taking a different track and questioning assumptions and biases around vibe coding with more nuance.
 ---
 
 Given [some of my previous comments about vibe coding](/blog/some-thoughts-on-ai), I found myself taking a different track and questioning some assumptions (and biases) over the last week and wanted to capture a bit more nuance around the topic.

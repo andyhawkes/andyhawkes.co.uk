@@ -1,8 +1,10 @@
 ---
 slug: some-things-I-made
 title: Some things I made
+date: 2025-06-26
 authors: [andyhawkes]
 tags: [Development, Coding]
+description: Once upon a time I was paid to write code in exchange for coins, and I wasn't bad at it.
 ---
 
 Once upon a time I was paid to write code in exchange for coins, and I wasn't bad at it.

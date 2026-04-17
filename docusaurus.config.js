@@ -78,10 +78,53 @@ const config = {
     ],
   ],
 
+  headTags: [
+    // Open Graph meta tags
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:locale',
+        content: 'en_GB',
+      },
+    },
+    // JSON-LD Structured Data for Person/Organization
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Person',
+        'name': 'Andy Hawkes',
+        'url': 'https://www.andyhawkes.co.uk',
+        'image': 'https://www.andyhawkes.co.uk/img/mugshot.jpg',
+        'sameAs': [
+          'https://github.com/andyhawkes',
+          'https://linkedin.com/in/andyhawkes',
+          'https://bsky.app/profile/andyhawkes.bsky.social',
+        ],
+        'jobTitle': 'VP Product Engineering & Architecture',
+        'affiliation': {
+          '@type': 'Organization',
+          'name': 'Deltatre',
+          'url': 'https://www.deltatre.com',
+        },
+      }),
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/AJH-logotype-cursive.png',
+      image: 'img/mugshot.jpg',
       navbar: {
         title: 'Home',
         logo: {
@@ -89,18 +132,9 @@ const config = {
           src: 'img/AJH-logotype-cursive.png',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'mySidebar',
-          //   position: 'left',
-          //   label: 'Writing',
-          // },
+          {to: '/thinking', label: 'Thinking', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {to: '/projects', label: 'Projects', position: 'left'},
         ],
       },
       footer: {
@@ -138,6 +172,10 @@ const config = {
               {
                 label: 'Drink-o-tron',
                 to: 'https://drink-o-tron.andyhawkes.co.uk',
+              },
+              {
+                label: 'Work clock',
+                to: 'https://github.com/andyhawkes/work-clock',
               }
             ],
           },
@@ -147,6 +185,14 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              // {
+              //   label: 'Writing',
+              //   to: '/writing',
+              // },
+              {
+                label: 'About me',
+                to: '/about',
               },
               {
                 label: 'GitHub',

@@ -1,8 +1,10 @@
 ---
 slug: bots-and-ai
 title: I like big bots and I cannot AI
+date: 2016-10-17
 authors: [andyhawkes]
 tags: [AI, Chatbots]
+description: "There's an awful lot of buzz about chatbots and conversational interfaces - but what is the value exchange?"
 ---
 
 There's an awful lot of buzz at the moment about chatbots, conversational interfaces, and digital assistants like Amazon's Alexa - it seems like there is a steady march of AI into our lives, but is that a good thing?

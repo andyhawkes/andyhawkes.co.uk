@@ -1,8 +1,10 @@
 ---
 slug: homeopathic-estimation
 title: Homeopathic estimation
+date: 2025-04-10
 authors: [andyhawkes]
 tags: [Technology, Development, Jargon, Humour]
+description: Today I (probably) invented a new technology term called homeopathic estimation.
 ---
 
 Today I (probably) invented a new technology term: Homepathic estimation

@@ -1,8 +1,10 @@
 ---
 slug: shipping-ai-code
 title: Shipping AI code - speed isn't everything
+date: 2026-03-10
 authors: [andyhawkes]
 tags: [AI]
+description: Just focusing on speed is a pretty blinkered view - there are dangerous false equivalences between clean code and fast delivery.
 ---
 
 Today I saw [a LinkedIn post from a a COO](https://www.linkedin.com/posts/gper1_ai-softwareengineering-productivity-activity-7437048320210055168-za6F) saying:

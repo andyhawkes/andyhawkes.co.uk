@@ -1,8 +1,10 @@
 ---
 slug: some-thoughts-on-steampunk
 title: Some semi-coherent thoughts on "Steampunk"
+date: 2014-10-30
 authors: [andyhawkes]
 tags: [Steampunk]
+description: Why steampunk has become more prominent as an aesthetic rather than a literary genre, and why I think it's a shame.
 ---
 
 Prompted by a recently-resurrected thread on Facebook from 3½ years ago, I thought I’d share a few snippets of my observations and opinions on the whole explosion of “steampunk culture” in recent years, because, well… because I can, I guess.

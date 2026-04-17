@@ -1,8 +1,10 @@
 ---
 slug: ai-is-increasing-cognitive-load
 title: AI is increasing my cognitive load
+date: 2026-03-02
 authors: [andyhawkes]
 tags: [AI]
+description: If you scroll LinkedIn you'll see AI is making everything faster - but I'm realising it has a personal downside for quality, focus, and cognitive load.
 ---
 
 If you spend 5 minutes scrolling through LinkedIn[^1], you will no doubt be greeted with multiple "think pieces" about how AI is making everything faster, enabling all of the hustle and grind aficionados to hustle and grind extra hard while they maximise shareholder value, or something.

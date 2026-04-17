@@ -1,8 +1,10 @@
 ---
 slug: the-year-the-rockstar-developer-died
 title: The year the "Rockstar" developer died
+date: 2014-01-02
 authors: [andyhawkes]
 tags: [Career, Digital]
+description: "Why the term 'Rockstar developer' in job postings is both rage-inducingly irritating and wildly unhelpful."
 ---
 
 There was a time when every developer job vacancy posted online seemed to be looking for “Rockstar” developers — fortunately it seems to have subsided a little now, but it’s still definitely a “thing” and it needs to be stamped out.

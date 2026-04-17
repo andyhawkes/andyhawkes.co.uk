@@ -1,8 +1,10 @@
 ---
 slug: some-thoughts-on-the-brexit-fallout
 title: Some thoughts on the Brexit fallout
+date: 2016-06-29
 authors: [andyhawkes]
 tags: [UK, Politics, Brexit]
+description: A few days after the Brexit vote, reflecting on depression, uncertainty, and concerns about my country voting in haste.
 ---
 
 It’s been a few days since the Brexit vote dropped a metric (damn you, EU bureaucrats, with your pesky decimal systems) shit-ton of depression and uncertainty on the UK, European, and global economies, and after a few more pressing matters were attended to I have now had time to think about it in a bit more detail.

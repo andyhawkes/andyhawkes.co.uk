@@ -1,8 +1,10 @@
 ---
 slug: a-question-of-airtime
 title: A question of (air)time?
+date: 2009-10-23
 authors: [andyhawkes]
 tags: [Politics, UK]
+description: What should we make of last nights Question Time appearance by Nick Griffin, head of the controversial BNP?
 ---
 
 # AKA Some thoughts raised by Question Time last night.

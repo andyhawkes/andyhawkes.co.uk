@@ -1,8 +1,10 @@
 ---
 slug: redefining-creativity
 title: Redefining "creativity" for the digital age
+date: 2015-02-05
 authors: [andyhawkes]
 tags: [Creativity]
+description: The traditional ad agency idea of the creative team feels narrow, blinkered, and hopelessly anachronistic in the context of a modern digital agency.
 ---
 
 ## The "creative team"

@@ -1,8 +1,10 @@
 ---
 slug: chromecast-first-impressions
 title: Chromecast - first impressions
+date: 2014-03-22
 authors: [andyhawkes]
 tags: [Smart tech]
+description: A £30 gadget that doesn't do anything I couldn't already do with my Xbox360, but it's a great bit of kit.
 ---
 
 You know what? I like it.

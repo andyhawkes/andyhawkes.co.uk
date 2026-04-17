@@ -1,8 +1,10 @@
 ---
 slug: am-I-old-now
 title: Am I old now?
+date: 2025-07-25
 authors: [andyhawkes]
 tags: [Ageing, Technology, Career, AI]
+description: I turn 50 today - and I've seen a lot of dire prognostications that anyone over that age will never work in IT again.
 ---
 
 I turn 50 today.

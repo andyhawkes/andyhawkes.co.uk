@@ -1,8 +1,10 @@
 ---
 slug: does-following-an-idiot-make-you-an-idiot
 title: Does following an idiot make you an idiot?
+date: 2010-09-06
 authors: [andyhawkes]
 tags: [Social media]
+description: "The ethics, etiquette and implicit conventions of emerging social media."
 ---
 
 # Does following an idiot make you an idiot?

@@ -1,8 +1,10 @@
 ---
 slug: some-thoughts-on-ai
 title: Some thoughts on AI
+date: 2025-06-24
 authors: [andyhawkes]
 tags: [Technology, Development, AI, Education, Career]
+description: Thinking a lot about AI recently and what it means for working practices - from whether it's coming for my job to the importance of critical thinking.
 ---
 
 I have been thinking a lot about AI recently — probably because every other post on LinkedIn is some kind of regurgitated AI think-piece, and every unsolicited email at work seems to revolve around AI strategy — and what it means for our current working practices.
