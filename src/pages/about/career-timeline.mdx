@@ -11,12 +11,25 @@ export const timelineEntries = [
     work: {
       title: 'Deltatre',
       annotations: [
-        'Joined as one of a small team of Technical Directors delivering major projects, stepped up to grow and run a team of 12 TDs, took on engineering best practice across the orgnaisation, and am now VP Product Engineering and Architecture, focused on technical leadership, engineering alignment, and pragmatic delivery.',
+        'Joined as one of a small team of Technical Directors delivering major projects, stepped up to grow and run a team of 12 TDs, took on engineering best practice across the orgaisation, and am now VP Product Engineering and Architecture, focused on technical leadership, engineering alignment, and pragmatic delivery.',
       ],
     },
     projects: {
       annotations: [
-        'Big-brand streaming platforms, technical alignment after the Endeavor Streaming acquisition, and engineering best-practice work across delivery teams.',
+        'Currently: product engineering leadership & technical alignment after the Endeavor Streaming acquisition',
+        'Previously: engineering best-practice work across delivery teams',
+        'Before that: delivering streaming platforms for global clients, including BritBox for ITV',
+      ],
+    },
+  },
+  {
+    id: 'Blu Health',
+    dateTime: '2018-02',
+    periodLabel: '2018 - 2020',
+    work: {
+      title: 'Blu Health Co.',
+      annotations: [
+        'Co-founder and CTO of a start-up working to create a new generation of connected services to improve everyday mental health',
       ],
     },
   },
@@ -57,11 +70,18 @@ export const timelineEntries = [
     work: {
       title: 'R/GA London',
       annotations: [
-        'A big agency Technical Director role, moving further into senior digital delivery and architecture work.',
+        'Spent 5 years as Technical Director at a digital agency that has been called out as "one of the 30 most influential companies in the history of the internet", moving further into senior digital delivery and architecture work.',
       ],
     },
     projects: {
-      annotations: ['Goldman Sachs, Aston Martin, Unilever, Google, and McDonalds.'],
+      title: 'Projects',
+      annotations: [
+        '2015: McDonalds Happy Studio',
+        '2014: Google Web Fundamentals',
+        '2013: Do: More for Unilever',
+        '2012: Aston Martin car configurator',
+        '2011: GS.com for Goldman Sachs',
+      ],
     },
   },
   {
@@ -71,11 +91,16 @@ export const timelineEntries = [
     work: {
       title: 'Cimex',
       annotations: [
-        'Spent almost 7 years growing from individual contributor to team leadership and becoming an effective translator between business and technical worlds.',
+        'Spent almost 7 years growing from individual contributor to team leadership, delivering multiple web projects across e-learning and public-sector digital clients, and becoming an effective translator between business and technical worlds.',
       ],
     },
     projects: {
-      annotations: ['Small-agency delivery across e-learning and public-sector digital work.'],
+      title: 'Projects',
+      annotations: [
+        '2008 - 2012: Get Set for London 2012 - the official schools project for the London 2012 Olympics.',
+        'Royal Armouries museum',
+        'Filmclub.org',
+      ],
     },
   },
   {
@@ -89,7 +114,10 @@ export const timelineEntries = [
       ],
     },
     projects: {
-      annotations: ["Revitalising the organisation's digital presence in a more formal in-house setting."],
+      annotations: [
+        "Revitalising the organisation's digital presence in a more formal in-house setting.",
+        'Worked with many stakeholders in the "bottom-up" Chamber of Commerce network to ensure their needs were met.'
+      ],
     },
   },
   {
@@ -99,7 +127,7 @@ export const timelineEntries = [
     work: {
       title: 'Group Webmaster, London agency group',
       annotations: [
-        'Turned a side-project website rebuild into a first proper web role in big fancy London, doing what was then called "new media".',
+        'Turned a side-project website rebuild into a first proper web role in big, fancy London, doing what was then called "new media".',
       ],
     },
     projects: {
@@ -113,7 +141,7 @@ export const timelineEntries = [
     work: {
       title: 'Started tinkering on the web',
       annotations: [
-        'Learned by experimenting with very early web tech while at university, using tools like Lynx and hand-rolled HTML.',
+        'Learned by experimenting with very early web tech while at university, using hand-rolled HTML and browsers like Lynx and Mosaic.',
       ],
     },
     projects: {
@@ -132,6 +160,7 @@ I have been creating websites and working with "the internet" in one way or anot
   <ol className="career-timeline__list">
     {timelineEntries.map((entry) => {
       const hasProjects = Boolean(entry.projects?.annotations?.length);
+      const hasProjectsTitle = Boolean(entry.projects?.title?.length);
 
       return (
         <li key={entry.id} className="career-timeline__item">
@@ -158,7 +187,7 @@ I have been creating websites and working with "the internet" in one way or anot
             </div>
             {entry.projects ? (
               <div className="career-timeline__projects" aria-label="Projects and clients">
-                <p className="career-timeline__label">Projects and clients</p>
+                {hasProjectsTitle ? <p className="career-timeline__label">{entry.projects.title}</p> : ''}
                 {entry.projects.annotations.map((annotation) => (
                   <p key={annotation}>{annotation}</p>
                 ))}

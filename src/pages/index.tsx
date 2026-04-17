@@ -125,7 +125,7 @@ export default function Home(): React.ReactElement {
               Right now I am focused on how teams can move faster with AI without creating technical debt, delivery friction, quality regressions, or fragile systems.
             </p>
             <p>
-              I am also interested in the leadership side of that shift: clearer trade-offs, stronger engineering judgement, and better alignment between product intent and what gets shipped.
+              I am also interested in the leadership side of that shift - clearer trade-offs, stronger engineering judgement, and better alignment between product intent and what gets shipped.
             </p>
           </section>
 
