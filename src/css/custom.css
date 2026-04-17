@@ -67,23 +67,32 @@
   margin-top: 2rem;
 }
 
-.career-timeline ol {
+.career-timeline__list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.career-timeline li {
+.career-timeline__item {
+  margin: 0 0 2rem 0;
+}
+
+.career-timeline__entry {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 3rem minmax(0, 1fr);
   gap: 1.5rem;
   align-items: start;
-  margin: 0 0 2rem 0;
 }
 
-.career-timeline__work,
+.career-timeline__work-column,
 .career-timeline__projects {
   min-width: 0;
+}
+
+.career-timeline__work-column {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
 .career-timeline__projects {
@@ -108,7 +117,7 @@
   background: var(--ifm-color-primary);
 }
 
-.career-timeline li:last-child .career-timeline__rail::before {
+.career-timeline__item:last-child .career-timeline__rail::before {
   bottom: 0;
 }
 
@@ -125,7 +134,7 @@
 }
 
 .career-timeline__period {
-  margin: 0 0 0.2rem 0;
+  margin: 0;
   font-size: 0.9rem;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -145,27 +154,32 @@
   color: var(--ifm-color-emphasis-700);
 }
 
-.career-timeline li p:last-child {
+.career-timeline__work p:last-child,
+.career-timeline__projects p:last-child {
   margin-bottom: 0;
 }
 
 @media (max-width: 996px) {
-  .career-timeline li {
+  .career-timeline__entry {
     grid-template-columns: 2rem minmax(0, 1fr);
     gap: 0.75rem 1rem;
   }
 
-  .career-timeline__work,
+  .career-timeline__work-column,
   .career-timeline__projects {
     grid-column: 2;
   }
 
   .career-timeline__rail {
     grid-column: 1;
+    grid-row: 1;
+  }
+
+  .career-timeline__entry--with-projects .career-timeline__rail {
     grid-row: 1 / span 2;
   }
 
-  .career-timeline__projects {
+  .career-timeline__entry--with-projects .career-timeline__projects {
     padding-top: 0;
     border-top: 1px solid var(--ifm-color-emphasis-200);
     padding-top: 0.75rem;

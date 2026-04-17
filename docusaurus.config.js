@@ -154,8 +154,16 @@ const config = {
           //   ],
           // },
           {
-            title: 'CV / Resume',
+            title: 'Personal info',
             items: [
+              {
+                label: 'About me',
+                to: '/about',
+              },
+              {
+                label: 'Career timeline',
+                to: '/about/career-timeline',
+              },
               {
                 label: 'LinkedIn',
                 href: 'https://linkedin.com/in/andyhawkes',
@@ -180,7 +188,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'More by me',
             items: [
               {
                 label: 'Blog',
@@ -190,10 +198,6 @@ const config = {
               //   label: 'Writing',
               //   to: '/writing',
               // },
-              {
-                label: 'About me',
-                to: '/about',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/andyhawkes',

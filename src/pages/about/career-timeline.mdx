@@ -1,0 +1,176 @@
+---
+title: Career timeline
+description: A bit more information on my career to date.
+---
+
+export const timelineEntries = [
+  {
+    id: 'deltatre',
+    dateTime: '2019-02',
+    periodLabel: '2019 to present',
+    work: {
+      title: 'Deltatre',
+      annotations: [
+        'Joined as one of a small team of Technical Directors delivering major projects, stepped up to grow and run a team of 12 TDs, took on engineering best practice across the orgnaisation, and am now VP Product Engineering and Architecture, focused on technical leadership, engineering alignment, and pragmatic delivery.',
+      ],
+    },
+    projects: {
+      annotations: [
+        'Big-brand streaming platforms, technical alignment after the Endeavor Streaming acquisition, and engineering best-practice work across delivery teams.',
+      ],
+    },
+  },
+  {
+    id: 'indicia',
+    dateTime: '2016',
+    periodLabel: '2016 - 2019',
+    work: {
+      title: 'Indicia',
+      annotations: [
+        'Helped reshape the technical model from in-house product delivery to a more standardised, outsourced operating model.',
+      ],
+    },
+    projects: {
+      annotations: [
+        'Agency restructuring, platform rationalisation, and delivery transformation for a more scalable outsourced setup.',
+      ],
+    },
+  },
+  {
+    id: 'interim-agency-role',
+    dateTime: '2016',
+    periodLabel: 'Q1 2016',
+    work: {
+      title: 'Interim agency role',
+      annotations: [
+        'Short transition period focused on improving technical delivery for major brands before the next long-term move.',
+      ],
+    },
+    projects: {
+      annotations: ['Delivery improvement work for Unilever and a certain orange-hued budget airline.'],
+    },
+  },
+  {
+    id: 'rga',
+    dateTime: '2011',
+    periodLabel: '2011 - 2016',
+    work: {
+      title: 'R/GA London',
+      annotations: [
+        'A big agency Technical Director role, moving further into senior digital delivery and architecture work.',
+      ],
+    },
+    projects: {
+      annotations: ['Goldman Sachs, Aston Martin, Unilever, Google, and McDonalds.'],
+    },
+  },
+  {
+    id: 'cimex',
+    dateTime: '2004',
+    periodLabel: '2004 - 2011',
+    work: {
+      title: 'Cimex',
+      annotations: [
+        'Spent almost 7 years growing from individual contributor to team leadership and becoming an effective translator between business and technical worlds.',
+      ],
+    },
+    projects: {
+      annotations: ['Small-agency delivery across e-learning and public-sector digital work.'],
+    },
+  },
+  {
+    id: 'british-chambers-of-commerce',
+    dateTime: '2003',
+    periodLabel: '2003 - 2004',
+    work: {
+      title: 'British Chambers of Commerce',
+      annotations: [
+        'Took on a digital revitalisation role before moving back to agency life for a more informal, delivery-focused environment.',
+      ],
+    },
+    projects: {
+      annotations: ["Revitalising the organisation's digital presence in a more formal in-house setting."],
+    },
+  },
+  {
+    id: 'group-webmaster',
+    dateTime: '2001',
+    periodLabel: '2001 - 2003',
+    work: {
+      title: 'Group Webmaster, London agency group',
+      annotations: [
+        'Turned a side-project website rebuild into a first proper web role in big fancy London, doing what was then called "new media".',
+      ],
+    },
+    projects: {
+      annotations: ['Corporate web work built from the case study that got me into the industry.'],
+    },
+  },
+  {
+    id: 'started-tinkering',
+    dateTime: '1995',
+    periodLabel: 'Mid 1990s',
+    work: {
+      title: 'Started tinkering on the web',
+      annotations: [
+        'Learned by experimenting with very early web tech while at university, using tools like Lynx and hand-rolled HTML.',
+      ],
+    },
+    projects: {
+      annotations: ['Personal experiments, self-teaching, and the foundations of a career that was never planned.'],
+    },
+  },
+];
+
+# My career
+
+My career to date has been completely unplanned and generally guided by a mixture of fate, coincidence, impulsive decisions, and good luck, so it's not really in my modus operandi to plan my career moves ahead of time.
+
+I have been creating websites and working with "the internet" in one way or another for over 30 years - at first I did it for fun, then I got paid to do it, and now I get paid to direct and manage other people who manage people who do it much better than I can any more.
+
+<section className="career-timeline">
+  <ol className="career-timeline__list">
+    {timelineEntries.map((entry) => {
+      const hasProjects = Boolean(entry.projects?.annotations?.length);
+
+      return (
+        <li key={entry.id} className="career-timeline__item">
+          <article
+            className={[
+              'career-timeline__entry',
+              hasProjects ? 'career-timeline__entry--with-projects' : 'career-timeline__entry--without-projects',
+            ].join(' ')}>
+            <div className="career-timeline__work-column">
+              <time className="career-timeline__period" dateTime={entry.dateTime}>
+                {entry.periodLabel}
+              </time>
+              {entry.work ? (
+                <div className="career-timeline__work" aria-label="Life and work events">
+                  <h3>{entry.work.title}</h3>
+                  {entry.work.annotations.map((annotation) => (
+                    <p key={annotation}>{annotation}</p>
+                  ))}
+                </div>
+              ) : null}
+            </div>
+            <div className="career-timeline__rail" aria-hidden="true">
+              <span className="career-timeline__marker" />
+            </div>
+            {entry.projects ? (
+              <div className="career-timeline__projects" aria-label="Projects and clients">
+                <p className="career-timeline__label">Projects and clients</p>
+                {entry.projects.annotations.map((annotation) => (
+                  <p key={annotation}>{annotation}</p>
+                ))}
+              </div>
+            ) : null}
+          </article>
+        </li>
+      );
+    })}
+  </ol>
+</section>
+
+For a more narrative version of the above, see [The seven year itch?](/blog/seven-year-itch).
+
+If you want the full detail then you can check out <a href="">my LinkedIn profile</a>, because that's what we use instead of a CV / resumé these days, isn't it?
