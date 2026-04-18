@@ -17,20 +17,23 @@ I started out with modest intentions — a few LED light strips in the living ro
 
 A bit of automation using off-the-shelf products and Raspberry Pi's has expanded into hardware and software hacking, solar arbitrage, improved household energy efficiency, and genuinely useful automation and security enhancement for our home.
 
-It's been fun to mix physical electronics — although I hate having to solder tiny wires with my big hands and deteriorating middle-aged eyesight — with code hacking, going cross-eyed debugging YAML, and running a home lab server while keeping physical switches as backups for every "smart" implementation and doing it all in a way that is accessible to my distinctly less geeky wife!
+It's been fun to mix physical electronics — although I hate having to solder tiny wires with my big hands and deteriorating middle-aged eyesight — with code hacking, going cross-eyed debugging YAML, and running a home lab server while keeping physical switches as backups for every "smart" implementation, and doing it all in a way that is accessible to my distinctly less geeky wife!
 
 The current inventory looks something like this:
 
+* A WiFi6 mesh netwok with router and 3 satellite s to cope with the thick walls in our house
+* 2 Nest thermostats - one for the central heating in the house, and one for the poolhouse
+* A WiFi and MQTT-enabled in-home display for our gas and electricity consumption
 * WiFi LED lights in the living room, kitchen, and office
 * A self-made "chandellier" in our stairwell with wireless RF switches and WiFi integration
 * Zigbee lights in the porch and side door
 * Zigbee door sensors in the swimming pool
-* Zigbee climate sensor in the poolhouse and porch
-* Zigbee sockets scattered aroudn the house to extend range
+* Zigbee climate sensors in the poolhouse and porch
+* Zigbee smart sockets scattered around the house to extend range
 * Zigbee smoke alarm in the garage just in case our solar inverters or batteries (or either of my motorbikes) decide to spontaneously combust
-* A WiFi camera watching over the driveway
+* A WiFi camera built on a Raspberry Pi Zero W watching over the driveway
 * A night-vision enabled WiFi camera and IR light to watch over our puppy in her crate (which has now been retired as she's somehow 2 years old already)
-* 9 (I think) Google Home Mini / Nest Mini speakers around the house, including stereo pairs in the kitchen and living room, and a hand-made / physically hacked one in the pool house with an externally wired AUX-out socket and switch, feeding into the poolhouse sound system
+* 9 (I think) Google Home Mini / Nest Mini speakers around the house, including stereo pairs in the kitchen and living room, and a physically hacked one in the poolhouse with an externally wired AUX-out socket and switch, feeding into the poolhouse sound system
 * A WiFi access point on the side of the garden shed, giving WiFi to the full property boundaries
 * WiFi smart sockets controlling pond pumps and garden lights
 * Shelly smart relays controlling the pool pump, dehumidifiers, and underwater light
