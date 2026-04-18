@@ -112,7 +112,7 @@ export default function Home(): React.ReactElement {
               I have spent 30 years building things for the web — first as a developer, then as a technical director, and now as a VP leading engineering and architecture at scale.
             <p>
             </p>
-              These days I spend most of my time thinking about how team actually work, and why technology problems are almost never technology problems — they're almost always people or process problems.
+              These days I spend most of my time thinking about how team actually work, and why <strong>technology problems are almost never technology problems — they're almost always people or process problems</strong>.
             </p>
             <p>
               This site is where I collect practical thinking, opinions, and side projects in one place.

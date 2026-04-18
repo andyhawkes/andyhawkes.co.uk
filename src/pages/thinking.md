@@ -1,3 +1,9 @@
+---
+title: Thinking
+description: Some of the more specific things that I am currently thinking about
+last_update: { date: "2026-04-18" }
+---
+
 # Thinking
 
 I wanted a way to bring together some of the more specific things that I am currently thinking about which might otherwise get lost in the rolling content of the [blog](/blog).
