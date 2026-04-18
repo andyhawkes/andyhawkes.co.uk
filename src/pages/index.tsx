@@ -107,9 +107,12 @@ export default function Home(): React.ReactElement {
       >
         <main className="container margin-vert--lg home-main-content">
           <section>
-            <h1>Some things from the mind of Andy Hawkes</h1>
+            <h1>Engineering leadership for the real world</h1>
             <p>
-              I am a software engineering and product leader who has spent more than 30 years building things for the web and helping teams deliver useful products.
+              I have spent 30 years building things for the web — first as a developer, then as a technical director, and now as a VP leading engineering and architecture at scale.
+            <p>
+            </p>
+              These days I spend most of my time thinking about how team actually work, and why technology problems are almost never technology problems — they're almost always people or process problems.
             </p>
             <p>
               This site is where I collect practical thinking, opinions, and side projects in one place.
@@ -122,11 +125,13 @@ export default function Home(): React.ReactElement {
           <section>
             <h2>Current focus</h2>
             <p>
-              Right now I am focused on how teams can move faster with AI without creating technical debt, delivery friction, quality regressions, or fragile systems.
+              Right now I am <Link to="/thinking">thinking hard</Link> about one thing: how engineering teams can move faster with AI without creating the kind of fragile, low-trust, high-debt systems that come back to bite them 6 months later.
             </p>
-            <p>
-              I am also interested in the leadership side of that shift - clearer trade-offs, stronger engineering judgement, and better alignment between product intent and what gets shipped.
-            </p>
+            <p>That means thinking about tooling, governance, engineering judgement, and — probably most importantly — the leadership behaviours that either enable or undermine all of it.</p>
+          </section>
+
+          <section>
+            <p>If you lead engineering teams, think about how software gets built and shipped, or are trying to figure out what AI actually changes about your organisation, you're probably in the right place.</p>
           </section>
 
           <section>

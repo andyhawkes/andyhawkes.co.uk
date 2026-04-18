@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Some things from the mind of Andy Hawkes',
+  title: 'Andy Hawkes - software engineering leadership for the real world',
   tagline: 'Some general guff and links from a guy who is variously: VP Product Engineering & Architecture at Deltatre, a tinkerer / maker and breaker of things, a biker, a bespoke liqueur maker, a craft beer aficionado, and an apprentice polymath (AKA an easily distracted semi-professional geek with no other qualifications in anything tangible or useful in the real world). All opinions are my own (or shamelessly stolen).',
   favicon: 'img/favicon.ico',
 
@@ -132,6 +132,7 @@ const config = {
           src: 'img/AJH-logotype-cursive.png',
         },
         items: [
+          {to: '/about', label: 'About me', position: 'left'},
           {to: '/thinking', label: 'Thinking', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/projects', label: 'Projects', position: 'left'},
