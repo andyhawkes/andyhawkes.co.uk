@@ -5,7 +5,7 @@ description: Some of my personal projects
 
 # Projects
 
-Having been in leadership and management roles for a long time now, I do still like to keep my hand in with the odd bit of hobby coding — mostly for fun, partly to scratch an itch, but mostly because I think engineering leadres who've totally lost touch with the craft make worse decisions.
+Having been in leadership and management roles for a long time now, I do still like to keep my hand in with the odd bit of hobby coding — mostly for fun, partly to scratch an itch, but mostly because I think engineering leaders who've totally lost touch with the craft make worse decisions.
 
 Here are a few side projects that I have built — and sometimes maintain — outside of day-to-day work.
 
@@ -27,7 +27,7 @@ The markup isn't pretty, but it works and it raises a smile whenever I decide to
 
 ## Drink-o-tron
 
-Not being one to waste the opportunity to stretch a joke, I decided to recycle the shoddy code underpinning Chef-o-tron to produce similarly over-the top beverage ideas, because... well, I could, and I like delicious (and sometimes ludicrous) beverages!
+Not being one to waste the opportunity to stretch a joke, I decided to recycle the code underpinning Chef-o-tron to produce similarly over-the top beverage ideas, because... well, I could, and I like delicious (and sometimes ludicrous) beverages!
 
 Thus [Drink-o-tron](https://drink-o-tron.andyhawkes.co.uk/) was born and proceded to come up with stupid beverages galore!
 
@@ -41,7 +41,7 @@ I did, however, [make ChatGPT come up with a name for a beer as well as a review
 
 ## Work clock
 
-I wanted a clock for my office, and couldn't decide what I wanted, so I opted to make a slightly unusual one with a Raspberry Pi and an e-ink screen.
+I wanted a simple clock for my office, and couldn't decide what I wanted, so I opted to make a slightly unusual one with a Raspberry Pi and an e-ink screen.
 
 Inspired by [Matt Webb's AI Poem clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock) as well as this [very expensive wall clock](https://www.jurawatches.co.uk/products/qlocktwo-classic-creators-edition-rust-wall-clock-45cm-fcenrt) (and this [much less expensive one](https://amzn.to/3SPwldn)), I wanted a word-based clock for my office that would not show the exact time but would be deliberately more vague.
 
@@ -59,7 +59,7 @@ No, really, I will - it's on a "to do" list in my office, and everything!
 
 ## Home automation
 
-I have a "home lab" server sat on top of the bookshelves in my home office running Proxmox and a handful of projects, including my ever-expanding [Home Assistant](https://www.home-assistant.io/) setup.
+I have a "home lab" server sat on top of the bookshelves in my home office, running Proxmox and a handful of projects, including my ever-expanding [Home Assistant](https://www.home-assistant.io/) setup.
 
 I started out with modest intentions — a few LED light strips in the living room controlled over WiFi via Google Assistant and some Google Home Mini / Nest Mini speakers — and have evolved it and built it up over time into something rather more robust.
 
