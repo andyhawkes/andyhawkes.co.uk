@@ -9,6 +9,43 @@ Having been in leadership and management roles for a long time now, I do still l
 
 Here are a few side projects that I have built — and sometimes maintain — outside of day-to-day work.
 
+## Home automation
+
+I have a "home lab" server sat on top of the bookshelves in my home office running Proxmox and a handful of projects, including my ever-expanding [Home Assistant](https://www.home-assistant.io/) setup.
+
+I started out with modest intentions — a few LED light strips in the living room controlled over WiFi via Google Assistant and some Google Home Mini / Nest Mini speakers — and have evolved it and built it up over time into something rather more robust.
+
+A bit of automation using off-the-shelf products and Raspberry Pi's has expanded into hardware and software hacking, solar arbitrage, improved household energy efficiency, and genuinely useful automation and security enhancement for our home.
+
+It's been fun to mix physical electronics — although I hate having to solder tiny wires with my big hands and deteriorating middle-aged eyesight — with code hacking, going cross-eyed debugging YAML, and running a home lab server while keeping physical switches as backups for every "smart" implementation and doing it all in a way that is accessible to my distinctly less geeky wife!
+
+The current inventory looks something like this:
+
+* WiFi LED lights in the living room, kitchen, and office
+* A self-made "chandellier" in our stairwell with wireless RF switches and WiFi integration
+* Zigbee lights in the porch and side door
+* Zigbee door sensors in the swimming pool
+* Zigbee climate sensor in the poolhouse and porch
+* Zigbee sockets scattered aroudn the house to extend range
+* Zigbee smoke alarm in the garage just in case our solar inverters or batteries (or either of my motorbikes) decide to spontaneously combust
+* A WiFi camera watching over the driveway
+* A night-vision enabled WiFi camera and IR light to watch over our puppy in her crate (which has now been retired as she's somehow 2 years old already)
+* 9 (I think) Google Home Mini / Nest Mini speakers around the house, including stereo pairs in the kitchen and living room, and a hand-made / physically hacked one in the pool house with an externally wired AUX-out socket and switch, feeding into the poolhouse sound system
+* A WiFi access point on the side of the garden shed, giving WiFi to the full property boundaries
+* WiFi smart sockets controlling pond pumps and garden lights
+* Shelly smart relays controlling the pool pump, dehumidifiers, and underwater light
+* Smart sockets in the greenhouse to control a heater
+* Hand-built ESP32 temperature sensors in the greenhouse monitoring outside air temperature, ground temperature, and inside air temperature in 2 zones
+* Hand built ESP32 temperature sensors in the pump room to monitor pool outflow and inflow temperatures, as well as boiler outflow temperature
+* Hand build data-logger for my Solis solar inverter
+* Modbus connection to my FoxESS inverter and battery management system
+* Home Assistant server with MQTT and lots of automations to:
+  * Manage battery charging / discharging in conjunction with Octopus Energy pricing and special events
+  * Turn lights on with smart timers linked to sunset times
+  * Heat the greenhouse if it drops below 5C (to keep my wife's fuchsia collection safe over winter)
+  * Run the pool dehumidifiers only when the humidity is too high (and the doors aren't open)
+  * Run the pool pump and filtration on timers that vary by season to make the most of either cheap night-time electricity in the winter or solar yield in the lighter months.
+
 ## Chef-o-tron
 
 Back in November 2021 I found myself laughing at a couple of tweets from [Alex Rushmer](https://x.com/justcookit/status/1460522952978571264) and [Dhruv Baker](https://x.com/DhruvBaker1/status/1460568926727946241) — a couple of chefs I followed on Twitter — bemoaning the ludicrous state of festive food items in UK supermarkets and on TV, and wondering if there was some kind of festive food generator machine that churned them out?
@@ -56,40 +93,3 @@ Check out the [GitHub repo](https://github.com/andyhawkes/work-clock) for more i
 I will make a nice frame for it at some point.
 
 No, really, I will - it's on a "to do" list in my office, and everything!
-
-## Home automation
-
-I have a "home lab" server sat on top of the bookshelves in my home office running Proxmox and a handful of projects, including my ever-expanding [Home Assistant](https://www.home-assistant.io/) setup.
-
-I started out with modest intentions — a few LED light strips in the living room controlled over WiFi via Google Assistant and some Google Home Mini / Nest Mini speakers — and have evolved it and built it up over time into something rather more robust.
-
-A bit of automation using off-the-shelf products and Raspberry Pi's has expanded into hardware and software hacking, solar arbitrage, improved household energy efficiency, and genuinely useful automation and security enhancement for our home.
-
-It's been fun to mix physical electronics — although I hate having to solder tiny wires with my big hands and deteriorating middle-aged eyesight — with code hacking, going cross-eyed debugging YAML, and running a home lab server while keeping physical switches as backups for every "smart" implementation and doing it all in a way that is accessible to my distinctly less geeky wife!
-
-The current inventory looks something like this:
-
-* WiFi LED lights in the living room, kitchen, and office
-* A self-made "chandellier" in our stairwell with wireless RF switches and WiFi integration
-* Zigbee lights in the porch and side door
-* Zigbee door sensors in the swimming pool
-* Zigbee climate sensor in the poolhouse and porch
-* Zigbee sockets scattered aroudn the house to extend range
-* Zigbee smoke alarm in the garage just in case our solar inverters or batteries (or either of my motorbikes) decide to spontaneously combust
-* A WiFi camera watching over the driveway
-* A night-vision enabled WiFi camera and IR light to watch over our puppy in her crate (which has now been retired as she's somehow 2 years old already)
-* 9 (I think) Google Home Mini / Nest Mini speakers around the house, including stereo pairs in the kitchen and living room, and a hand-made / physically hacked one in the pool house with an externally wired AUX-out socket and switch, feeding into the poolhouse sound system
-* A WiFi access point on the side of the garden shed, giving WiFi to the full property boundaries
-* WiFi smart sockets controlling pond pumps and garden lights
-* Shelly smart relays controlling the pool pump, dehumidifiers, and underwater light
-* Smart sockets in the greenhouse to control a heater
-* Hand-built ESP32 temperature sensors in the greenhouse monitoring outside air temperature, ground temperature, and inside air temperature in 2 zones
-* Hand built ESP32 temperature sensors in the pump room to monitor pool outflow and inflow temperatures, as well as boiler outflow temperature
-* Hand build data-logger for my Solis solar inverter
-* Modbus connection to my FoxESS inverter and battery management system
-* Home Assistant server with MQTT and lots of automations to:
-  * Manage battery charging / discharging in conjunction with Octopus Energy pricing and special events
-  * Turn lights on with smart timers linked to sunset times
-  * Heat the greenhouse if it drops below 5C (to keep my wife's fuchsia collection safe over winter)
-  * Run the pool dehumidifiers only when the humidity is too high (and the doors aren't open)
-  * Run the pool pump and filtration on timers that vary by season to make the most of either cheap night-time electricity in the winter or solar yield in the lighter months.

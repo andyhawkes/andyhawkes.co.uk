@@ -50,6 +50,9 @@ const config = {
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        pages: {
+          showLastUpdateTime: true,
+        },
         blog: {
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
