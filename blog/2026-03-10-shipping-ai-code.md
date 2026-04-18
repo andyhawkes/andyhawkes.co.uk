@@ -7,7 +7,7 @@ tags: [AI]
 description: Just focusing on speed is a pretty blinkered view - there are dangerous false equivalences between clean code and fast delivery.
 ---
 
-Today I saw [a LinkedIn post from a a COO](https://www.linkedin.com/posts/gper1_ai-softwareengineering-productivity-activity-7437048320210055168-za6F) saying:
+Today I saw [a LinkedIn post from a COO](https://www.linkedin.com/posts/gper1_ai-softwareengineering-productivity-activity-7437048320210055168-za6F) saying:
 
 > Today developers who spend 3 days writing "clean" code that someone else would have shipped in 4 hours with AI are no longer rewarded for their dilligence: they're penalised for their slowness.  
 >
