@@ -5,7 +5,7 @@ description: Some of my personal projects
 
 # Projects
 
-Having been in leadership and management roles for a long time now, I do still like to keep my hand in with the odd bit of hobby coding — mostly for fun, partly to scratch an itch, but mostly because I think engineering leadres who've totally lost touch with the craft make worse decisions.
+Having been in leadership and management roles for a long time now, I do still like to keep my hand in with the odd bit of hobby coding — mostly for fun, partly to scratch an itch, but mostly because I think engineering leaders who've totally lost touch with the craft make worse decisions.
 
 Here are a few side projects that I have built — and sometimes maintain — outside of day-to-day work.
 
@@ -64,7 +64,7 @@ The markup isn't pretty, but it works and it raises a smile whenever I decide to
 
 ## Drink-o-tron
 
-Not being one to waste the opportunity to stretch a joke, I decided to recycle the shoddy code underpinning Chef-o-tron to produce similarly over-the top beverage ideas, because... well, I could, and I like delicious (and sometimes ludicrous) beverages!
+Not being one to waste the opportunity to stretch a joke, I decided to recycle the code underpinning Chef-o-tron to produce similarly over-the top beverage ideas, because... well, I could, and I like delicious (and sometimes ludicrous) beverages!
 
 Thus [Drink-o-tron](https://drink-o-tron.andyhawkes.co.uk/) was born and proceded to come up with stupid beverages galore!
 
