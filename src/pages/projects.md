@@ -21,7 +21,7 @@ It's been fun to mix physical electronics — although I hate having to solder t
 
 The current inventory looks something like this:
 
-* A WiFi6 mesh netwok with router and 3 satellites to cope with the thick walls in our house
+* A WiFi6 mesh network with router and 3 satellites to cope with the thick walls in our house
 * 2 Nest thermostats - one for the central heating in the house, and one for the poolhouse
 * A WiFi and MQTT-enabled in-home display for our gas and electricity consumption
 * WiFi LED lights in the living room, kitchen, and office
