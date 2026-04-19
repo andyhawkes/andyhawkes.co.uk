@@ -23,7 +23,7 @@ Now that feels to me like a somewhat "old school" approach to development, and o
 
 "When I was a younger developer" we all got stuff done by just diving in and, well... getting stuff done!
 
-We collaborated, we brought in people with specific, relevant expertise if we didn't have it ourselves (or couldn't acquire it qwuickly enough), and we solved problems as we went along.
+We collaborated, we brought in people with specific, relevant expertise if we didn't have it ourselves (or couldn't acquire it quickly enough), and we solved problems as we went along.
 
 Sounds kind of "agile"[^1], doesn't it? But this was in the days before seemingly everyone had gamely swallowed The Agile Manifesto whole and GANTT charts were still the main measure of project progress.
 
