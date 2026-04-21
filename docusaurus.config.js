@@ -136,6 +136,7 @@ const config = {
         },
         items: [
           {to: '/about', label: 'About me', position: 'left'},
+          {to: '/career-timeline', label: 'My career', position: 'left'},
           {to: '/thinking', label: 'Thinking', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/projects', label: 'Projects', position: 'left'},
@@ -166,7 +167,7 @@ const config = {
               },
               {
                 label: 'Career timeline',
-                to: '/about/career-timeline',
+                to: '/career-timeline',
               },
               {
                 label: 'LinkedIn',
