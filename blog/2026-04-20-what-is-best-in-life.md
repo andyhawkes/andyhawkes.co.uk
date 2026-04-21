@@ -156,11 +156,11 @@ Above all of the world-class technical output and undeniable delivery success in
 
 ![GitHub commits showing some of my team's output - Pedro Duarte and Antoine Grelard were the stars of the show](/img/web-fundamentals-commits.png)
 
-## BritBox (2019)
+## BritBox UK (2019)
 
-BritBox represented my first project delivery at Deltatre, and an entirely new technical domain for me to learn (at pace).
+BritBox UK represented my first project delivery at Deltatre, and an entirely new technical domain for me to learn (at pace).
 
-When I joined Deltatre in March 2019, I went straight in to the BritBox project, which had kicked off not long before and was still very much in its infancy.
+When I joined Deltatre in March 2019, I went straight in to the BritBox UK project, which had kicked off not long before and was still very much in its infancy.
 
 ### The best of British
 
@@ -172,7 +172,7 @@ We were very fortunate to have a client team that took a pragmatic and agile app
 
 We started out with Web and iOS builds as our "Alpha" deliverable, expanding before launch to include Android and ending up with numerous Smart TV devices by the time we were done — Samsung Tizen, LG WebOS, Apple TV, Google Chromecast, Amazon FireTV, Roku, Freeview Play, YouView, Netgem... the list was pretty impressive!
 
-With a small, dedicated team we went live in November 2019 and continued to evolve the platform over the next few years, adding new features, functionality, and partner integrations, pushing out a record 90 releases in one quarter alone.
+With a small, dedicated team we went live in November 2019 and continued to evolve the platform over the next few years, adding new features, functionality, and partner integrations, pushing out a record _90 releases in one quarter alone_.
 
 In the streaming platform space, consumer expectations are set not by the platforms that Deltatre delivers but by the R&D budgets of Netflix, Amazon Prime, and Apple TV — which raises the bar just a bit — so being able to deliver world-class apps and competitive features in that context is a huge credit to the project team and the AXIS product!
 
