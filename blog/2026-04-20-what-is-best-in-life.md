@@ -164,7 +164,7 @@ When I joined Deltatre in March 2019, I went straight in to the BritBox project,
 
 ### The best of British
 
-The BritBox proposition wasn't new — it had existed for some time in the USA as [britbox.com](britbox.com), which is also a Deltatre project — but due to the unique combination of licensing rights and the specific context of British public service broadcasting the UK version was to be run by ITV while the international version was a separate entity headed up by the BBC.
+The BritBox proposition wasn't new — it had existed for some time in the USA as [britbox.com](https://www.britbox.com), which is also a Deltatre project — but due to the unique combination of licensing rights and the specific context of British public service broadcasting the UK version was to be run by ITV while the international version was a separate entity headed up by the BBC.
 
 ### Agility and pragmatism
 
