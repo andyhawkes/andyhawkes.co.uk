@@ -186,11 +186,11 @@ Our close collaboration and frequent visits to each others offices may have give
 
 Perhaps the most personally gratifying moment was a simple thank-you email sent by one of the client team to the project manager on our side saying "we love having Andy on the project - he always gives us confidence and we know that if anything goes wrong, he'll fix it".
 
-Leading collaboration through an era-defining pandemic was certainly not on my bingo card when I joined Deltatre, but it clearly demonstrated the value of something that has come up throughout my career - the ability to bridge the gap between business and technology, to bring the conversation together in clear, non-technical language.
+Leading collaboration through an era-defining pandemic was certainly not on my bingo card when I joined Deltatre, but it clearly demonstrated the value of something that has come up throughout my career - the ability to bridge the gap between business and technology, and to bring the conversation together in clear, non-technical language.
 
 ### All good things must come to an end
 
-Due to a strategic shift at ITV and the launch of ITVX in December 2022, the standalone BritBox UK platform was retired in April 2024, with its content fully merging into ITVX as part of the Premium offering within the new platform.
+Due to a strategic shift at ITV and the launch of ITVX in December 2022, the standalone BritBox UK platform was eventually retired in April 2024, with its content fully merging into ITVX as part of the Premium offering within the new platform.
 
 It was obviously sad to see that project head into the sunset, but it did so with its head held high — we built a genuinely compelling service, proved the commercial viability of the content within the UK market, and, most importantly, we built a fantastic working relationship with the team at ITV.
 
@@ -212,4 +212,4 @@ It's been an interesting journey so far, and the challenges do find a way of kee
 
 [^1]: See [www.getset.co.uk/about-get-set](https://www.getset.co.uk/about-get-set)
 
-[^2]: Any JS code we wanted to include had to go through a full Google security audit, and any libraries needed to have appropriate licenses. We therefore kept the JS to an absolute minimum - the only place it’s used is on the main nav.
+[^2]: Any JS code we wanted to include had to go through a full Google security audit, and any libraries needed to have appropriate licenses. We therefore kept the JS to an absolute minimum - the only place it was used was on the main nav.
