@@ -10,13 +10,13 @@ description: I have been doing some introspection recently as part of updating t
 > Conan! What is best in life?  
 To crush your project deadlines, see them launched before you, and to hear the satisfaction of their users.
 
-When I wrote about my career history later last year in [The seven year itch](/blog/seven-year-itch), I called out a few of the projects that I have worked on, but I have been doing some introspection recently as part of updating this site, and realised that I have worked on some incredible projects that I should take more obvious pride in.
+When I wrote about my career history late last year in [The seven year itch](/blog/seven-year-itch), I called out a few of the projects that I have worked on, but I have been doing some introspection recently as part of updating this site, and realised that I have worked on some incredible projects that I should take more obvious pride in.
 
 <!-- truncate -->
 
 It would be fair to say that I am a little uncomfortable with the kind of flagrant self-aggrandisement that afflicts so many LinkedIn users, but if I was putting together a personal credentials deck, I would be able to scatter some pretty impressive and international names and logos over it - R/GA, Google, Goldman Sachs, Aston Martin, BBC, ITV, and the London 2012 Olympics to name just a few.
 
-I have also worked on some projects that have been particularly memorable — all for different reasons — here are just a couple of them:
+I have worked on some projects that have been particularly memorable — all for different reasons — here are just a few of them:
 
 ## Get Set for London 2012 (2008)
 
