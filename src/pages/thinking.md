@@ -109,5 +109,5 @@ It’s how you design systems that can operate across multiple, conflicting time
 - [Does agile really work?](/blog/does-agile-really-work)
 - [From Knowledge to Judgement: AI and the Next Phase of Work](/blog/ai-judgement-economy)
 - [From Pyramids to Diamonds: Rethinking Engineering Teams](/blog/ai-engineering-team-structure)
-- [Delivery vs Capability: Designing Across Time Horizons](/blog/delivery-vs-capability-ai)
+- [Delivery vs Capability: Designing Across Time Horizons](/blog/delivery-vs-capability)
 - [When Time Stops Behaving: AI and Temporal Misalignment](/blog/ai-time-misalignment)
