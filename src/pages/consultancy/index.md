@@ -90,8 +90,8 @@ Support the organisation in removing or reducing the constraint.
 
 ## Engagement model
 
-* Diagnostic: £7.5k – £12k
-* Follow-on work: scoped based on problem and impact, typically £20k - £30k for a focused 4-6 week intervention
+* Diagnostic: £8k-£15k depending on organisational size and complexity
+* Follow-on work: scoped based on problem and impact, typically £20k-£30k for a focused 4-6 week intervention
 * Advisory (optional): light-touch, ongoing support — typically a few hours a month to sense-check decisions and maintain momentum after an engagement.
 
 Engagements are deliberately short and focused.
