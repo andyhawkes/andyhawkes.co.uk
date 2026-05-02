@@ -78,7 +78,7 @@ function formatDate(date: string): string {
 }
 
 export default function Home(): React.ReactElement {
-  const recentPosts = getRecentPosts(3);
+  const recentPosts = getRecentPosts(5);
 
   const websiteSchema = {
     '@context': 'https://schema.org',
@@ -110,9 +110,9 @@ export default function Home(): React.ReactElement {
             <h1>Engineering leadership for the real world</h1>
             <p>
               I have spent 30 years building things for the web — first as a developer, then as a technical director, and now as a VP leading engineering and architecture at scale.
-            <p>
             </p>
-              These days I spend most of my time thinking about how teams actually work, and why <strong>technology problems are almost never technology problems — they're almost always people or process problems</strong>.
+            <p>
+              These days I spend most of my time thinking about how teams actually work, why delivery systems fail, and why <strong>technology problems are almost never technology problems — they&apos;re almost always people, process, or time problems</strong>.
             </p>
             <p>
               This site is where I collect practical thinking, opinions, and side projects in one place.
@@ -125,17 +125,33 @@ export default function Home(): React.ReactElement {
           <section>
             <h2>Current focus</h2>
             <p>
-              Right now I am <Link to="/thinking">thinking hard</Link> about one thing: how engineering teams can move faster with AI without creating the kind of fragile, low-trust, high-debt systems that come back to bite them 6 months later.
+              Right now I am <Link to="/thinking">thinking hard</Link> about how AI changes engineering organisations beyond the tooling layer.
             </p>
-            <p>That means thinking about tooling, governance, engineering judgement, and — probably most importantly — the leadership behaviours that either enable or undermine all of it.</p>
+            <p>
+              That means looking at judgement, team structure, capability development, delivery pressure, and the uncomfortable fact that AI is moving faster than most organisations can adapt.
+            </p>
+            <p>
+              The interesting question is not simply how teams can ship faster with AI. It is how they can move faster without becoming more fragile or creating the kind of low-trust, high-debt systems that come back to bite them 6 months later.
+            </p>
+            <p>
+              We also need to consider the key leadership behaviours that either enable or undermine all of it.</p>
           </section>
 
           <section>
-            <p>If you lead engineering teams, think about how software gets built and shipped, or are trying to figure out what AI actually changes about your organisation, you're probably in the right place.</p>
+            <p>
+              If you lead engineering teams, think about how software gets built and shipped, or are trying to understand what AI actually changes about your organisation, you&apos;re probably in the right place.
+            </p>
           </section>
 
           <section>
-            <h2>Recent thinking</h2>
+            <h2>Start here</h2>
+            <p>
+              The best place to start is the <Link to="/thinking">Thinking</Link> page, which brings together the themes I keep coming back to: speed, quality, judgement, capability, AI, and time.
+            </p>
+          </section>
+
+          <section>
+            <h2>Recent blog posts</h2>
             <ul>
               {recentPosts.map((post) => (
                 <li key={post.permalink} className="margin-bottom--md">
