@@ -11,7 +11,7 @@ Over the last few posts, I’ve been writing about AI from a fairly close range 
 
 In other words, the **micro view** — what happens inside teams when capability, speed, and decision-making all shift at once.
 
-But the more I’ve thought about it, the harder it’s become to ignore the bigger picture, as the same forces are playing out at a much larger scale.
+But the more I’ve thought about it, the harder it’s becoming to ignore the bigger picture, as the same forces are playing out at a much larger scale.
 
 <!-- truncate -->
 
@@ -21,9 +21,7 @@ Not just within organisations — across economies, across countries, and across
 
 Long before I moved into technology, I studied Economics and Politics at university.
 
-At the time, that felt like a different world — markets, incentives, governance, power structures.
-
-Useful, but abstract.
+At the time, that felt like a different world — markets, incentives, governance, power structures — academically useful, but abstract.
 
 Over the years, working in technology, I’ve mostly been focused on systems at a different scale:
 
@@ -34,14 +32,14 @@ Over the years, working in technology, I’ve mostly been focused on systems at 
 
 But increasingly, those worlds are starting to overlap.
 
-AI is not _just another tool_, it's a shift in:
+AI is not _just another tool_, it represents a fundamental shift in:
 
 - Capability  
 - Agency  
 - Speed  
 - Time  
 
-And those are not just engineering concerns, they are economic and political ones.
+Clearly those are not just engineering concerns, they are economic and political ones too.
 
 ## From micro to macro
 
@@ -61,16 +59,15 @@ Apply just as well at a global level:
 
 ## A new series
 
-The answers are not evenly distributed, so I’m going to explore that — this series looks at AI from a broader perspective:
+The answers are complex and the potential outcomes are not evenly distributed, so I’m going to explore that.
 
-- Not just how it changes engineering  
-- But how it reshapes economies, power, and opportunity  
+This series looks at AI from a broader perspective — not just how it changes engineering, but how it has the potential to reshape economies, power, and opportunity.
 
 It starts with a simple question:
 
 > Whose future is it anyway?
 
-Because the more you look at what’s happening, the harder it is to believe that the answer is “everyone”.
+The more I look at what’s happening, the harder it is to believe that the answer is “everyone”.
 
 ## If you’re interested in the micro view
 
@@ -96,12 +93,12 @@ The next few posts will explore:
 - How access to capability is uneven across countries  
 - The risk of dependency on platforms  
 - The concentration of power in a small number of organisations  
-- And what it would actually take to move towards a more balanced outcome  
+- What it would actually take to move towards a more balanced outcome  
 
-It’s less about prediction, and more about understanding the forces at play and asking whether we’re comfortable with where they might lead.
+It’s less about prediction or prognostication, and more about understanding the fundamental forces at play and asking whether we’re comfortable with where they might lead.
 
 ## Starting point
 
-The first post looks at a framing borrowed from Mo Gawdat: Mutually Assured Destruction vs Mutually Assured Prosperity.
+The first post will look at a framing borrowed from Mo Gawdat: Mutually Assured Destruction vs Mutually Assured Prosperity.
 
-It’s a compelling idea, but I’m not convinced it reflects what’s actually happening, so we’ll start there!
+It’s a compelling idea, but I’m not convinced it reflects what’s actually happening, so I’ll start there!
