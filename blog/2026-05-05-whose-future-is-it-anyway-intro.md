@@ -7,23 +7,21 @@ tags: [AI, Society, Engineering]
 description: "A new series exploring how AI is reshaping not just engineering teams, but economies, power structures, and the distribution of opportunity."
 ---
 
-AI is not just changing how software gets built, it's changing who has capability, who has agency, how quickly advantage compounds, and how much time people, organisations, and governments have to adapt.
+Over the last few posts, I’ve been writing about AI from a fairly close range — how it changes engineering teams, delivery dynamics, capability development, and the shape of organisations.
 
-Over the last few posts, I’ve been looking at that from the inside out: engineering teams, delivery systems, judgement, and capability.
+In other words, the **micro view** — what happens inside teams when capability, speed, and decision-making all shift at once.
 
-This series widens the lens, because the same forces are now playing out across economies, countries, platforms, and power structures.
-
-Which brings me to the question I keep coming back to:
-
-> Whose future is it anyway?
+But the more I’ve thought about it, the harder it’s becoming to ignore the bigger picture, as the same forces are playing out at a much larger scale.
 
 <!-- truncate -->
+
+Not just within organisations — across economies, across countries, and across systems that were never designed to move this quickly.
 
 ## A wider lens
 
 Long before I moved into technology, I studied Economics and Politics at university.
 
-At the time, that felt like a different world — markets, incentives, governance, power structures.
+At the time, that felt like a different world — markets, incentives, governance, power structures — academically useful, but abstract.
 
 Over the years, working in technology, I’ve mostly been focused on systems at a different scale:
 
@@ -32,36 +30,75 @@ Over the years, working in technology, I’ve mostly been focused on systems at 
 - Delivery  
 - Architecture  
 
-Increasingly, those worlds are starting to overlap, because AI is not just another tool, it's a shift in:
+But increasingly, those worlds are starting to overlap.
+
+AI is not _just another tool_, it represents a fundamental shift in:
 
 - Capability  
 - Agency  
 - Speed  
 - Time  
 
-Those are not just engineering concerns, they're economic and political ones.
+Clearly those are not just engineering concerns, they are economic and political ones too.
 
 ## From micro to macro
 
-The same questions I’ve been asking about teams apply at a global level.
+The same questions I’ve been asking about teams:
 
 - Who has capability?  
 - Who makes decisions?  
 - How fast are things moving?  
 - Do we have time to adapt?  
 
-The answers are not evenly distributed.
+Apply just as well at a global level:
 
-## What to expect
+- Which countries have access to AI capability?  
+- Who controls the platforms and infrastructure?  
+- How quickly are advantages compounding?  
+- Do governments and societies have time to respond?  
 
-This series explores:
+## A new series
 
-- Disruption vs prosperity  
-- Global inequality and access  
-- Platform dependency  
-- Corporate concentration  
-- What it would take to shape a better outcome  
+The answers are complex and the potential outcomes are not evenly distributed, so I’m going to explore that.
+
+This series looks at AI from a broader perspective — not just how it changes engineering, but how it has the potential to reshape economies, power, and opportunity.
 
 It starts with a simple question:
 
 > Whose future is it anyway?
+
+The more I look at what’s happening, the harder it is to believe that the answer is “everyone”.
+
+## If you’re interested in the micro view
+
+If you’re more interested in how these changes play out inside teams and organisations, the previous posts are a good place to start:
+
+- [Thinking](/thinking)  
+- [Recent blog posts](/blog)  
+
+They cover:
+
+- Engineering judgement  
+- Team structure  
+- Delivery vs capability  
+- The impact of AI on how software actually gets built  
+
+This series builds on that, just at a different scale.
+
+## What to expect
+
+The next few posts will explore:
+
+- Why the “AI revolution” may be more compressed than previous shifts  
+- How access to capability is uneven across countries  
+- The risk of dependency on platforms  
+- The concentration of power in a small number of organisations  
+- What it would actually take to move towards a more balanced outcome  
+
+It’s less about prediction or prognostication, and more about understanding the fundamental forces at play and asking whether we’re comfortable with where they might lead.
+
+## Starting point
+
+The first post will look at a framing borrowed from Mo Gawdat: Mutually Assured Destruction vs Mutually Assured Prosperity.
+
+It’s a compelling idea, but I’m not convinced it reflects what’s actually happening, so I’ll start there!
