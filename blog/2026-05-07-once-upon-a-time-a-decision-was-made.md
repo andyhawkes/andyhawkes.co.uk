@@ -1,7 +1,7 @@
 ---
 slug: once-upon-a-time-a-decision-was-made
 title: "Once upon a time, a decision was made"
-date: 2026-05-09
+date: 2026-05-07
 authors: [andyhawkes]
 tags: [Architecture, Engineering]
 description: "Without deliberate context preservation, architecture decisions stop being history and start becoming folklore."
