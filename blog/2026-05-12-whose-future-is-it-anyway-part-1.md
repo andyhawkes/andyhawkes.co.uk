@@ -4,10 +4,10 @@ title: "Whose future is it anyway? (Part 1: MAD, MAP, and the illusion of choice
 date: 2026-05-12
 authors: [andyhawkes]
 tags: [AI, Society, Economics]
-description: "AI may be as transformative as the Industrial Revolution, but compressed into years rather than decades. The outcome is not predetermined, and it will not be evenly distributed."
+description: "AI could be as fundamentally transformative as the Industrial Revolution, but compressed into years rather than decades. The outcome is not predetermined, and it will not be evenly distributed."
 ---
 
-There’s a framing I’ve been coming back to recently, borrowed from Mo Gawdat.
+There’s a framing I’ve been coming back to recently, [borrowed from Mo Gawdat](https://www.youtube.com/watch?v=S9a1nLw70p0).
 
 During the Cold War, the dominant paradigm was MAD — Mutually Assured Destruction — but Gawdat suggests that with AI, we have the potential for something different:
 
@@ -121,10 +121,10 @@ This is not a single trajectory, but rather a set of diverging ones.
 
 Part of what makes this moment difficult to reason about is that several forces are moving at once:
 
-- **Capability** is increasing rapidly  
-- **Speed** of change is accelerating  
-- **Agency** is concentrating around those who control capital, compute, and platforms  
-- **Time** for adaptation is shrinking  
+- **Capability** is increasing rapidly as AI breaks down the requirement for deep knowledge acquisition, as is **capacity** now that AI tools are in so many — but crucially not all — hands.
+- **Agency** is concentrating around those who control capital, compute, and platforms, with only those with accesss to the tools and the empowerment for **action** being able to truly take advantage.
+- **Speed** of change is accelerating, and clashing with **structure** that was designed for a much slower era.
+- **Time** for adaptation is shrinking, and the **tempo** of progress, delivery, and disruption is rising.
 
 They don't move in lockstep, and when they fall out of alignment, systems become unstable.
 
@@ -147,7 +147,7 @@ Or, more simply:
 
 In the next post, I’ll look at how this plays out at a global level.
 
-If AI becomes the primary engine of productivity, then access to capability is no longer just a technical question, it becomes an economic one.
+If AI becomes a — or _the_ — primary engine of productivity, then access to capability is no longer just a technical question, it becomes an economic one.
 
 And potentially, a geopolitical one.
 
