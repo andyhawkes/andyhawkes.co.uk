@@ -91,7 +91,7 @@ The key issue is not just where we end up, but how quickly we get there.
 
 ## The compression of the middle
 
-If AI continues to improve, the impact won’t stop at entry level.
+If AI continues to improve, the impact won’t stop at entry level jobs.
 
 A significant portion of mid-level work in knowledge industries is procedural, analysis, synthesis, transformation of information. These are precisely the domains where AI systems are already proving effective.
 

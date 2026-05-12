@@ -169,9 +169,7 @@ It is operating across three interacting horizons:
 - **Next** — what capability do we need to build?  
 - **Changing** — how is the environment shifting under us?  
 
-Each requires a different kind of thinking.
-
-And each pulls in a different direction.
+Each requires a different kind of thinking, and each pulls in a different direction.
 
 ## What this means in practice
 
@@ -195,7 +193,7 @@ It is more about building organisations that can evolve alongside them.
 
 ## Where individuals fit
 
-This connects back to the changing shape of the individual.
+This connects back to [the changing shape of the individual](/blog/ai-engineering-team-structure#the-shape-of-the-individual).
 
 A multi-pillar capability model only works if individuals have:
 
