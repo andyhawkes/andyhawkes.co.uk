@@ -7,7 +7,7 @@ tags: [AI, strategy, engineering, systems]
 
 Most discussions about AI focus on capability — what it can do, how fast it's improving, and where it might go next.
 
-My last post focused on the fact that less attention is paid to something more subtle, but arguably more disruptive.
+My [last post](/blog/delivery-vs-capability) focused on the fact that less attention is paid to something more subtle, but arguably more disruptive.
 
 **Time**.
 
@@ -192,7 +192,7 @@ A few implications follow:
 
 One way to think about this shift is:
 
-- From **planning** → to **recalibration**
+- From **planning** to **recalibration**
 
 Planning assumes a relatively stable target.
 
