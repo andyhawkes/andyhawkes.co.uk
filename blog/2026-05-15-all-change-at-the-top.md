@@ -45,7 +45,7 @@ So of course the answer to that is to change the person at the top right in the 
 
 He's beige in human form, yes.
 
-And he hasn't miraculously fixed the effects of 14 years of under-investemnet in critical services in 2 years — without raising taxes, obviously — because it's got to be easy to fill that famous budgetary black hole through "simple" decisions, right?
+And he hasn't miraculously fixed the effects of 14 years of under-investment in critical services in 2 years — without raising taxes, obviously — because it's got to be easy to fill that famous budgetary black hole through "simple" decisions, right?
 
 I know that people are feeling the pinch in a very real way, but the truth of the matter is that _the current Labour government didn't create this problem_.
 
@@ -97,4 +97,4 @@ On personality and communication, we can only hope so!
 
 [^2]: He's short, you see. Little. Comedy gold!
 
-[^3]: We still seem to be plagued by an electorate that can't seem to see a woman in the top role, and certainly not an outspoken working class woman with real, lived experience to contribute. I know that Therea May did actually get elected, but that feels like a historical aboration and somewhat inevitable after Cameron turned tail.
+[^3]: We still seem to be plagued by an electorate that can't seem to see a woman in the top role, and certainly not an outspoken working class woman with real, lived experience to contribute. I know that Therea May did actually get elected, but that feels like a historical aberration and somewhat inevitable after Cameron turned tail.
