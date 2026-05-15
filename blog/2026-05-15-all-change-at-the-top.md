@@ -1,7 +1,7 @@
 ---
 slug: all-change-at-the-top
 title: "All change at the top as Labour shoots itself in the foot. Again."
-date: 2026-05-12
+date: 2026-05-15
 authors: [andyhawkes]
 tags: [UK, Politics]
 description: "It looks like the Labour party is once again preparing to shoot itself in the foot, seemingly because the current Prime Minister is boring. Sadly the answer to pervasive, long-term policy challenges and a popularist party rising on the right is not to change leader every 3 years!"
