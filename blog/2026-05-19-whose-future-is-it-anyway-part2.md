@@ -97,7 +97,7 @@ People move, adapt, retrain.
 
 That transition is rarely smooth, but it exists.
 
-The concern with AI is that the transition compresses he work disappears faster than new categories of work are created, and faster than people can realistically retrain.
+The concern with AI is that the transition compresses the period in which work disappears — the jobs of today end up disappearing faster than new categories of work for the jobs of tomorrow are created, and faster than people can realistically retrain.
 
 That creates a gap, not just in employment, but in identity, stability, and opportunity.
 
@@ -171,7 +171,7 @@ We’ve seen versions of this before:
 
 AI could follow a similar pattern.
 
-Countries without legacy systems may be able to adopt new models faster.
+Countries without legacy systems may be able to adopt new economic and technological models faster.
 
 Less friction. Fewer constraints.
 
@@ -195,7 +195,7 @@ Infrastructure is not neutral — who builds it matters.
 
 China’s investment in digital infrastructure through initiatives like the Belt and Road and the Digital Silk Road is often framed as development support.
 
-It _is_ that, but it is also something else.
+It _is_ that, but it is also something bigger.
 
 Infrastructure defines:
 
@@ -206,9 +206,9 @@ Infrastructure defines:
 
 Countries that adopt that infrastructure are not just gaining capability, they are also entering into a system.
 
-It should eb noted that the same is true of Western platforms.
+It should be noted that the same is true of Western platforms.
 
-Different models. Similar dynamics.
+Different models. Extensive and expensive lobbyists. Similar dynamics.
 
 ## Capability and control
 
