@@ -7,7 +7,7 @@ tags: [AI, Society, Economics]
 description: "AI does not arrive evenly. The countries and people without access to capability risk being excluded from the next economic model."
 ---
 
-In the first post, I looked at the idea that AI is pulling us in two directions at once.
+In the [first post](/blog/whose-future-is-it-anyway-part-1), I looked at the idea that AI is pulling us in two directions at once.
 
 Massively accelerated disruption on one side, and the promise of prosperity on the other.
 
@@ -58,6 +58,7 @@ AI threatens that model, because it targets exactly the kind of work that formed
 - Customer support  
 - Software services  
 - Routine analysis  
+- Data labelling and annotation  
 
 If that work is automated before countries can fully build capability around it, then the ladder doesn’t just become harder to climb, it starts to disappear.
 
@@ -69,14 +70,7 @@ It’s much harder to think about what that means in practice.
 
 For many economies, particularly in parts of the Global South, large-scale employment has been built around providing relatively low-cost, human-intensive services into global markets.
 
-Call centres are the obvious example.
-
-But it extends further:
-
-- Business process outsourcing  
-- Software services  
-- Back-office operations  
-- Data labelling and annotation  
+Call centres are the obvious example, but if we look at the types of jobs I just mentioned it clearly extends much further.
 
 These are not just jobs, they are economic foundations that support:
 
@@ -175,7 +169,7 @@ Countries without legacy systems may be able to adopt new economic and technolog
 
 Less friction. Fewer constraints.
 
-That’s plausible, but it depends on access.
+That’s pretty plausible, but it depends on _access_.
 
 Access to:
 
@@ -191,11 +185,11 @@ Without that, leapfrogging becomes much harder.
 
 This is where things get more geopolitical.
 
-Infrastructure is not neutral — who builds it matters.
+**Infrastructure is _not_ neutral** — who builds it matters.
 
 China’s investment in digital infrastructure through initiatives like the Belt and Road and the Digital Silk Road is often framed as development support.
 
-It _is_ that, but it is also something bigger.
+It _is_ that, but it is also something much bigger and more impactful in the long term.
 
 Infrastructure defines:
 
@@ -206,7 +200,7 @@ Infrastructure defines:
 
 Countries that adopt that infrastructure are not just gaining capability, they are also entering into a system.
 
-It should be noted that the same is true of Western platforms.
+Before I get accused of being anti-China in particular, it should be noted that the same is true of western governments and western platforms.
 
 Different models. Extensive and expensive lobbyists. Similar dynamics.
 
@@ -219,13 +213,13 @@ At a global level, the AI question becomes less about technology and more about 
 - Who can afford to use them at scale?  
 - Who owns the interfaces through which they are accessed?  
 
-These are not evenly distributed, and they are not trending towards being evenly distributed.
+These are not evenly distributed, and they are not trending towards being evenly distributed either.
 
 ## So who gets left behind?
 
 The answer is not fixed, but the risk is clear.
 
-Without deliberate effort, the benefits of AI are unlikely to be anything close to evenly distributed.
+Without deliberate effort, the benefits of AI are unlikely to be anything close to evenly distributed, equitable, or in any way neutral.
 
 They will flow towards:
 

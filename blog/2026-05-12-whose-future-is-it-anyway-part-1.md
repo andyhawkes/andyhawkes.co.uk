@@ -145,9 +145,9 @@ Or, more simply:
 
 ## What comes next
 
-In the next post, I’ll look at how this plays out at a global level.
+In [the next post](/blog/whose-future-is-it-anyway-part-2), I look at how this plays out at a global level.
 
-If AI becomes a — or _the_ — primary engine of productivity, then access to capability is no longer just a technical question, it becomes an economic one.
+If AI becomes a — or **_the_** — primary engine of productivity, then access to capability is no longer just a technical question, it becomes an economic one.
 
 And potentially, a geopolitical one.
 
