@@ -17,6 +17,8 @@ What both framings gloss over is a more uncomfortable question:
 
 Because AI isn't arriving evenly.
 
+<!-- truncate -->
+
 ## AI is not global
 
 There’s a tendency to talk about AI as if it is a global phenomenon, but in practice, it's highly concentrated.
