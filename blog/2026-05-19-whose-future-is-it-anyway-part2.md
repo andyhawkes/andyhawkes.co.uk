@@ -19,21 +19,21 @@ Because AI isn't arriving evenly.
 
 ## AI is not global
 
-There’s a tendency to talk about AI as if it is a global phenomenon, but in practice, it is highly concentrated.
+There’s a tendency to talk about AI as if it is a global phenomenon, but in practice, it's highly concentrated.
 
 The frontier models are developed by a small number of organisations, mostly based in:
 
 - The United States  
 - China  
 
-They are backed by:
+They're backed by:
 
 - Enormous capital  
 - Access to advanced compute  
 - Deep pools of technical talent  
 - Strategic government interest  
 
-That combination isn't widely distributed, and that matters, because if AI becomes a primary driver of productivity, then access to AI capability becomes a determinant of economic power.
+That combination isn't widely distributed, and that matters, because if AI becomes a primary driver of productivity — or possibly **_the_** primary driver of global economic productivity — then access to AI capability becomes a fundamental determinant of economic power.
 
 ## The disappearing ladder
 
@@ -79,7 +79,7 @@ These are not just jobs, they are economic foundations that support:
 - Education  
 - Upward mobility across generations  
 
-If AI automates significant portions of that work, the impact is not just technological, it's social, economic, and deeply personal.
+If AI automates significant portions of that work, the impact isn't just technological, it's social, economic, and deeply personal.
 
 ## Displacement without transition
 
@@ -88,6 +88,8 @@ Historically, automation has been disruptive, but it has often been accompanied 
 Old jobs disappear, new ones emerge.
 
 People move, adapt, retrain.
+
+Less farriers shoeing horses, more mechanics fixing cars.
 
 That transition is rarely smooth, but it exists.
 
@@ -156,7 +158,7 @@ The question is not simply whether they can "adopt AI", it’s whether they can 
 
 ## Leapfrogging, or exclusion?
 
-There is an alternative view, wherein developing economies may be able to leapfrog.
+There is an alternative view, where developing economies may be able to leapfrog.
 
 We’ve seen versions of this before:
 
@@ -169,7 +171,7 @@ Countries without legacy systems may be able to adopt new economic and technolog
 
 Less friction. Fewer constraints.
 
-That’s pretty plausible, but it depends on _access_.
+That sounds pretty plausible, but it still depends on _access_.
 
 Access to:
 
@@ -185,33 +187,33 @@ Without that, leapfrogging becomes much harder.
 
 This is where things get more geopolitical.
 
-**Infrastructure is _not_ neutral** — who builds it matters.
+**Infrastructure is _not_ neutral** — who builds it _matters_.
 
 China’s investment in digital infrastructure through initiatives like the Belt and Road and the Digital Silk Road is often framed as development support.
 
-It _is_ that, but it is also something much bigger and more impactful in the long term.
+It _is_ that, but it's not investment without agenda, and it's building to something much bigger and more impactful in the long term.
 
 Infrastructure defines:
 
 - Standards  
 - Dependencies  
-- Data flows  
 - Influence  
+- Data flows
 
-Countries that adopt that infrastructure are not just gaining capability, they are also entering into a system.
+Countries that adopt that infrastructure are not just gaining capability, they are also _entering into a system_.
 
 Before I get accused of being anti-China in particular, it should be noted that the same is true of western governments and western platforms.
 
-Different models. Extensive and expensive lobbyists. Similar dynamics.
+Different political and economic models. More extensive and expensive lobbyists. Similar dynamics.
 
 ## Capability and control
 
 At a global level, the AI question becomes less about technology and more about capability and control.
 
-- Who can build models?  
-- Who can run them?  
-- Who can afford to use them at scale?  
-- Who owns the interfaces through which they are accessed?  
+- Who can build models?
+- Who can run them?
+- Who can afford to use them at scale?
+- Who owns the interfaces through which they are accessed?
 
 These are not evenly distributed, and they are not trending towards being evenly distributed either.
 
