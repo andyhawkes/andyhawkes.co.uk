@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-1
-title: "Whose future is it anyway? (Part 1: MAD, MAP, and the illusion of choice)"
+title: "Whose future is it anyway? Part 1: MAD, MAP, and the illusion of choice"
 date: 2026-05-12
 authors: [andyhawkes]
 tags: [AI, Society, Economics]

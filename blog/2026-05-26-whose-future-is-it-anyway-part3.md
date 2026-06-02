@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-3
-title: "Whose future is it anyway? (Part 3: From leverage to lock-in)"
+title: "Whose future is it anyway? Part 3: From leverage to lock-in"
 date: 2026-05-26
 authors: [andyhawkes]
 tags: [AI, Platforms, Economics]

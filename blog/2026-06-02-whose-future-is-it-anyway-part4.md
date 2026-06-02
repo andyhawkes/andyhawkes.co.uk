@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-4
-title: "Whose future is it anyway? (Part 4: ACE — Asymmetric Corporate Expansion)"
+title: "Whose future is it anyway? Part 4: ACE — Asymmetric Corporate Expansion"
 date: 2026-06-02
 authors: [andyhawkes]
 tags: [AI, Economics, Power]
