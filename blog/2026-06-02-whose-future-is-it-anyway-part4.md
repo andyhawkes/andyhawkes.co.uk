@@ -133,7 +133,7 @@ If a small number of organisations have access to more capable systems, they may
 
 This is where expansion becomes self-reinforcing, not just technically, but economically.
 
-## Not science fiction
+## This is not science fiction
 
 It’s tempting to frame this in terms of science fiction.
 
@@ -164,23 +164,23 @@ We’ve already seen glimpses of this in how different systems behave:
 - What they permit or preclude
 - Where and how they apply guardrails
 
-Occasionally, those behaviours become visible through leaks or reverse engineering — revealing the system prompts, policies, and heuristics that sit between the user and the model.
+## This is observable reality
+
+Occasionally, those hidden behaviours become visible through leaks or reverse engineering — revealing the system prompts, policies, and heuristics that sit between the user and the model.
 
 That shouldn’t be surprising, in fact it should be expected, because these systems are **products**, and products are shaped by market incentives.
 
-> The risk is not that AI develops its own agenda, it’s that it inherits ours and then scales it.
-
 If the underlying incentives prioritise growth over accuracy, engagement over truth, profit over public good, or national interest over global stability and cooperation, then those priorities don’t just influence outcomes, they become embedded in the systems themselves.
 
-At a scale we have never experienced before, and moving faster than moderation, monitoring, legislation, or existing safety nets can adapt to.
+All of this is already happening at a scale we have never experienced before, and moving faster than moderation, monitoring, legislation, or existing safety nets can adapt to.
 
 Which brings us back to the earlier point — concentration of AI capability amplifies this.
 
-If a small number of organisations control the most widely used AI systems, then their assumptions, biases, and incentives don’t just affect their own products — they begin to shape how information is generated, interpreted, and acted upon more broadly.
+If a small number of organisations control the most widely used AI systems, then their assumptions, biases, incentives, and intentions don’t just affect their own products — they begin to shape how information is generated, interpreted, and acted upon more broadly.
 
 Not (necessarily) because of malice, but because of reach.
 
-At that point, it’s no longer just technology. It’s real-world influence, embedded in software.
+At that point it’s not "neutral" technology, it’s real-world influence embedded in software.
 
 ## A familiar pattern, at a different scale
 
@@ -194,13 +194,12 @@ Increasing asymmetry in power and value capture.
 
 We've seen versions of this before, but what is different here is the layer at which it operates — not just software, not just platforms, but fundamental computational capability itself.
 
-## The real risk
+## Real-world consequences
 
-The risk is not that AI replaces humans wholesale, the risk is that it amplifies existing structures of power faster than we can adapt to them.
+The risk is not that AI replaces humans wholesale, the risk is that it amplifies existing structures of power faster than we can adapt to them. That it accelerates concentration before we have meaningful ways to counterbalance it, and it turns advantage into dominance before alternatives can emerge.
 
-That it accelerates concentration before we have meaningful ways to counterbalance it.
+> Ultimately, the risk is not that AI develops its own agenda, it’s that it inherits ours and then scales it.
 
-That it turns advantage into dominance before alternatives can emerge.
 
 ## What comes next
 
