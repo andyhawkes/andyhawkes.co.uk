@@ -64,7 +64,7 @@ If anything, the ability to act at unprecedented speed makes it more important t
 
 AI can absolutely enhance the development process — I have a project going in my spare time to build a Backgammon game using React Native where all of the code is being written by AI [^3] — but it still needs good direction, clear, solid rules to follow, and someone with the ability to understand and validate the output (and guide debugging).
 
-At this point in time I would stromngly advocate for experienced humans in the loop to direct and ensure quality.
+At this point in time I would stromngly[^4] advocate for experienced humans in the loop to direct and ensure quality.
 
 No matter how good your prompts, skills files, and rules are, LLMs are still non-deterministic and prone to over-confidence, and most importantly they are trained on human-produced code rather than fundamentals of programming, so they're just as capable of creating bugs, security risks, and sub-optimal code as we slow, squishy-brained humans are if unsupervised!
 
@@ -74,3 +74,5 @@ No matter how good your prompts, skills files, and rules are, LLMs are still non
 
 [^3]: I am not really a modern app developer. I am an old-school, "hand-rolled code with minimal frameworks" kind of web developer and I have never properly built my own stuff with React, let alone React Native — largely because I haven't been actively coding in exchange for coins for 15 years or so, on account of having talented people to do that for me these days. Working on a green-field app as a both a learning project and a field test of my agentic framework is very interesting so far though.
 In case you're interested, I picked a backgammon app because my wife and I both like playing Backgammon casually, the app I currently have on my phone is riddled with ads that interrupt gameplay, and backgammon has very simple rules and a probabalistic structure that makes it pretty suitable for a side project. With me being me, however, I have already mapped out a detailed enhanced feature set and potential revenue model, just in case I decide to try and make it into something that could pay enough for me to quit my day job...
+
+[^4]: It's 2½ months since I wrote this and I just spotted the typo here. I'm leaving it in, because it's ironically relevant.

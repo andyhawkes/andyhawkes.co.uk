@@ -63,7 +63,7 @@ Instead of a broad base, you have:
 
 This is closer, conceptually, to how some high-performance teams operate in other domains.
 
-Specialist units, for example, do not optimise for large numbers of entry-level operators. They recruit selectively, invest heavily in capability, and expect individuals to operate across a broader range of responsibilities earlier in their careers.
+Specialist military units, for example, do not optimise for large numbers of entry-level operators. They recruit selectively, invest heavily in capability, and expect individuals to operate across a broader range of responsibilities earlier in their careers.
 
 The analogy is not perfect, but the structural idea is useful.
 
