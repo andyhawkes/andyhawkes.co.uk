@@ -99,6 +99,6 @@ It’s less about prediction or prognostication, and more about understanding th
 
 ## Starting point
 
-The first post will look at a framing borrowed from Mo Gawdat: Mutually Assured Destruction vs Mutually Assured Prosperity.
+The [first post](/blog/whose-future-is-it-anyway-part-1) looks at a framing borrowed from Mo Gawdat: Mutually Assured Destruction vs Mutually Assured Prosperity.
 
 It’s a compelling idea, but I’m not convinced it reflects what’s actually happening, so I’ll start there!
