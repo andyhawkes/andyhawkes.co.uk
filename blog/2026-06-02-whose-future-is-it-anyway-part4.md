@@ -9,9 +9,7 @@ description: "The biggest risk of AI may not be what it does, but who owns it. A
 
 In the previous posts, I looked at how AI is reshaping access and dependency.
 
-- Capability is unevenly distributed across countries  
-- Platforms are becoming control points within them  
-- What starts as leverage can become dependency  
+Capability is unevenly distributed across countries, platforms are becoming control points within them, and what starts as leverage can easily become dependency.
 
 What happens when capability, access, and dependency all concentrate in the same place?
 
@@ -29,13 +27,13 @@ The organisations building the most capable models benefit from a reinforcing lo
 - Better models attract more capital  
 - More capital enables more compute  
 
-This is not new — we have seen similar dynamics with search, social media platforms, and cloud services.
+This isn't new — we've seen similar dynamics with search, social media platforms, and cloud services.
 
-AI operates at a deeper layer - it's not just a service, it's becoming infrastructure.
+AI operates at a deeper layer — it's not just a service sitting on the surface, it's becoming fundamental infrastructure.
 
 ## ACE: Asymmetric Corporate Expansion
 
-If MAD is Massively Accelerated Disruption, and MAP is Mutually Assured Prosperity, there is a third dynamic emerging:
+If MAD is Massively Accelerated Disruption, and MAP is Mutually Assured Prosperity, there is a third dynamic emerging, which I have named "ACE":
 
 **ACE — Asymmetric Corporate Expansion**
 
@@ -45,7 +43,9 @@ If MAD is Massively Accelerated Disruption, and MAP is Mutually Assured Prosperi
 
 **Expansion**, because once a lead is established, it can scale rapidly across markets, domains, and geographies.
 
-The risk is not that not everyone benefits equally, it’s that a small number of organisations benefit disproportionately.
+We risk a small number of organisations benefiting disproportionately, while some people — or possibly many people — benefit very little (or not at all).
+
+To put it more bluntly, we're setting ourselves up for a future where a handful of boardrooms dictate global productivity.
 
 ## First-mover advantage, but faster
 
@@ -58,7 +58,7 @@ If an organisation establishes a meaningful lead in:
 - Distribution  
 - Integration  
 
-Then that lead can expand rapidly - faster than competitors can realistically catch up, faster than regulators can respond, and faster than markets can rebalance.
+Then that lead can expand rapidly — faster than competitors can realistically catch up, faster than regulators can respond, and faster than markets can rebalance.
 
 This is where the comparison to earlier technology waves starts to break down.
 
@@ -85,23 +85,17 @@ It's tempting to assume that the organisations building these systems will act i
 
 Some explicitly position themselves that way, but even within that group there are meaningful differences.
 
-OpenAI and Anthropic, for example, both talk about safety, alignment, and responsible development.
+OpenAI and Anthropic, for example, both talk about safety, alignment, and responsible development, yet they have taken different stances on military usage, government partnerships, and deployment constraints.
 
-At the same time, they have taken different positions on:
+Those differences are not accidental or incidental — they reflect funding structures, governance models, strategic priorities, legislative leverage (or laxity), interpretations of risk, and, ultimately, incentives.
 
-- Government partnerships  
-- Military usage  
-- Deployment constraints  
+This isn't a criticism of any individual organisation, it's a reminder that:
 
-Those differences are not accidental or incidental, they reflect funding structures, governance models, strategic priorities, interpretations of risk, and, ultimately, incentives.
-
-This is not a criticism of any individual organisation, it's a reminder that:
-
-> These are companies operating within competitive and political systems.
+> These are companies operating within highly competitive economic and political systems.
 
 They are not neutral actors, and they are not insulated from the pressures of capital, competition, or national interest.
 
-That means the trajectory of AI is not just shaped by what is technically possible, but by what is economically, politically, and strategically advantageous.
+That means the trajectory of AI is not just shaped by what is technically _possible_, but by what is economically, politically, and strategically _advantageous_.
 
 ## Ownership of intelligence
 
@@ -135,9 +129,7 @@ One of the less discussed aspects of this is financial.
 
 AI does not just improve products. It can improve the ability to analyse markets, execute trades, optimise pricing, and identify opportunities.
 
-If a small number of organisations have access to more capable systems, they may not just build better products.
-
-They may also allocate capital more effectively, capture value more quickly, and reinforce their advantage across multiple domains.
+If a small number of organisations have access to more capable systems, they may not just build better products, they may also allocate capital more effectively, capture value more quickly, and reinforce their advantage across multiple domains.
 
 This is where expansion becomes self-reinforcing, not just technically, but economically.
 
@@ -147,16 +139,18 @@ It’s tempting to frame this in terms of science fiction.
 
 Runaway systems. Autonomous intelligence. Cyberdyne with better branding.
 
-Those kind of scenarios are interesting, but they are also a distraction from something more immediate — we don't need AI to become sentient to create risk, we just need it to become concentrated and shaped by the wrong incentives.
+Those kind of scenarios are interesting, but they are also a distraction from something more immediate:
 
-AI systems are not neutral in practice — they are built, trained, and deployed by humans.
+> We don't need AI to become sentient to create risk, we just need it to become concentrated and shaped by the wrong incentives.
+
+AI systems are not neutral in practice — they are built, trained, and deployed by humans, both individually and collectively.
 
 That means they reflect:
 
-- The data they are trained on  
-- The objectives they are optimised for  
-- The constraints and policies imposed on them  
-- The commercial and strategic incentives of the organisations behind them  
+- The data they are trained on
+- The objectives they are optimised for
+- The constraints and policies imposed on them
+- The commercial and strategic incentives of the organisations behind them
 
 Even when the underlying models are broadly capable, the interfaces we interact with are not raw intelligence, they are curated, guided, and constrained.
 
@@ -164,28 +158,29 @@ In some cases, they are steered quite deliberately.
 
 We’ve already seen glimpses of this in how different systems behave:
 
-- What they are willing to answer  
-- How they frame responses  
-- What they prioritise or avoid  
-- Where they apply guardrails  
+- What they are willing to answer
+- How they frame responses
+- What they prioritise or avoid
+- What they permit or preclude
+- Where and how they apply guardrails
 
 Occasionally, those behaviours become visible through leaks or reverse engineering — revealing the system prompts, policies, and heuristics that sit between the user and the model.
 
-That shouldn’t be surprising, it should be expected, because these systems are **products**, and products are shaped by incentives.
+That shouldn’t be surprising, in fact it should be expected, because these systems are **products**, and products are shaped by market incentives.
 
-The risk is not that AI develops its own agenda, it’s that it inherits ours and then scales it.
+> The risk is not that AI develops its own agenda, it’s that it inherits ours and then scales it.
 
-If the underlying incentives prioritise growth over accuracy, engagement over truth, profit over public good, or national interest over global stability then those priorities don’t just influence outcomes, they become embedded in the systems themselves.
+If the underlying incentives prioritise growth over accuracy, engagement over truth, profit over public good, or national interest over global stability and cooperation, then those priorities don’t just influence outcomes, they become embedded in the systems themselves.
 
-At scale, and at speed.
+At a scale we have never experienced before, and moving faster than moderation, monitoring, legislation, or existing safety nets can adapt to.
 
-Which brings us back to the earlier point - concentration amplifies this.
+Which brings us back to the earlier point — concentration of AI capability amplifies this.
 
-If a small number of organisations control the most widely used AI systems, then their assumptions, biases, and incentives don’t just affect their own products - they begin to shape how information is generated, interpreted, and acted upon more broadly.
+If a small number of organisations control the most widely used AI systems, then their assumptions, biases, and incentives don’t just affect their own products — they begin to shape how information is generated, interpreted, and acted upon more broadly.
 
 Not (necessarily) because of malice, but because of reach.
 
-At that point, it’s no longer just technology. It’s influence, embedded in software.
+At that point, it’s no longer just technology. It’s real-world influence, embedded in software.
 
 ## A familiar pattern, at a different scale
 
@@ -197,7 +192,7 @@ A large number of dependent participants.
 
 Increasing asymmetry in power and value capture.
 
-We have seen versions of this before, but what is different here is the layer at which it operates - not just software, not just platforms, but capability itself.
+We've seen versions of this before, but what is different here is the layer at which it operates — not just software, not just platforms, but fundamental computational capability itself.
 
 ## The real risk
 
@@ -211,4 +206,4 @@ That it turns advantage into dominance before alternatives can emerge.
 
 In the final post, I’ll look at what it would actually take to move towards something closer to MAP.
 
-If the current trajectory leads towards disruption, dependency, and concentration, then the question is not whether a better outcome is possible, it’s what would need to change to make it likely, and whether we are willing to make those changes.
+If the current trajectory leads towards disruption, dependency, and concentration, then the question is not whether a better outcome is _possible_, it’s what would need to change to make it _likely_, and whether we are actually willing to make those changes and pay whatever the accompanying price may be.
