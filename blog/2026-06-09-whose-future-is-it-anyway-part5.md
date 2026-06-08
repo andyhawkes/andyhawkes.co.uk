@@ -17,7 +17,7 @@ It points to a system under pressure.
 
 <!-- truncate -->
 
-## MAP is not the default
+## Mutually Assured Prosperity is not the default
 
 The concept of Mutually Assured Prosperity is an attractive corporate talking point — it implies that as a technological capability scales, its dividends naturally distribute.
 
