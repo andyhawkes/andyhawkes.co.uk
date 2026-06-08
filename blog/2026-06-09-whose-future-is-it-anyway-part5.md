@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-5
-title: "Whose future is it anyway? (Part 5: The narrow path to prosperity)"
+title: "Whose future is it anyway? Part 5: The narrow path to prosperity"
 date: 2026-06-09
 authors: [andyhawkes]
 tags: [AI, Society, Economics]
@@ -140,7 +140,7 @@ The real question is not whether AI changes the world.
 
 It already has.
 
-The question is whether we are willing to influence how that change plays out, because if we are not, the outcome will not be neutral.
+The question is whether we are willing to influence how — and how fast — that change plays out, because if we are not, the outcome will not be neutral.
 
 It will simply reflect the forces that were strongest at the time.
 

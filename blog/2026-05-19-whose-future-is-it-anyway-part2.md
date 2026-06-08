@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-2
-title: "Whose future is it anyway? (Part 2: Who gets left behind?)"
+title: "Whose future is it anyway? Part 2: Who gets left behind?"
 date: 2026-05-19
 authors: [andyhawkes]
 tags: [AI, Society, Economics]
@@ -16,6 +16,8 @@ What both framings gloss over is a more uncomfortable question:
 > Who actually gets access to that prosperity?
 
 Because AI isn't arriving evenly.
+
+<!-- truncate -->
 
 ## AI is not global
 

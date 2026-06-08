@@ -1,6 +1,6 @@
 ---
 slug: whose-future-is-it-anyway-part-3
-title: "Whose future is it anyway? (Part 3: From leverage to lock-in)"
+title: "Whose future is it anyway? Part 3: From leverage to lock-in"
 date: 2026-05-26
 authors: [andyhawkes]
 tags: [AI, Platforms, Economics]
@@ -14,6 +14,8 @@ In the first two posts, I looked at how AI is reshaping outcomes at a global lev
 - Creating real risk of exclusion for those without access  
 
 But this dynamic doesn’t just play out between countries, it plays out within them, because even where access exists, control is uneven.
+
+<!-- truncate -->
 
 ## The promise of leverage
 
