@@ -27,7 +27,7 @@ Technological progress has never distributed its benefits evenly without deliber
 
 Left unchecked, they resolve towards speed without systemic guardrails, deeper asymmetry, and monopoly.
 
-Mutually Assured Prosperity is not a destination we can arrive at by default. If we want it, we have to design and build for it.
+Mutually Assured Prosperity is not a destination we can arrive at by default. If we want it, we have to actively design and build for it.
 
 ## The alignment problem
 
@@ -102,4 +102,4 @@ The future is not a destination that arrives out of thin air — it's designed, 
 
 The real question is no longer whether AI will change the world. It already has.
 
-The question is whether we are willing to exert intentional pressure and friction on how that change plays out, because if we choose to remain passive participants, the final outcome won't be neutral — it will simply reflect the raw incentives of the forces that moved the fastest, and the corporations that owned them.
+The question is whether we are willing to exert intentional pressure and friction on how — and how fast — that change plays out, because if we choose to remain passive participants, the final outcome won't be neutral — it will simply reflect the raw incentives of the forces that moved the fastest, and the corporations that owned them.
