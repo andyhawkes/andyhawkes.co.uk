@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-part-3
 title: "Whose future is it anyway? Part 3: From leverage to lock-in"
 date: 2026-05-26
 authors: [andyhawkes]
-tags: [AI, Platforms, Economics]
+tags: [AI, Platforms, Economics, Whose future is it anyway?]
 description: "AI starts as leverage, but may end as dependency. The real battleground is not capability, but control."
 ---
 

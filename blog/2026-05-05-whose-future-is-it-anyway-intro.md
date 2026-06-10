@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-introduction
 title: "Whose future is it anyway?"
 date: 2026-05-05
 authors: [andyhawkes]
-tags: [AI, Society, Engineering]
+tags: [AI, Society, Engineering, Whose future is it anyway?]
 description: "A new series exploring how AI is reshaping not just engineering teams, but economies, power structures, and the distribution of opportunity."
 ---
 

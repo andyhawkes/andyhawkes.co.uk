@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-part-2
 title: "Whose future is it anyway? Part 2: Who gets left behind?"
 date: 2026-05-19
 authors: [andyhawkes]
-tags: [AI, Society, Economics]
+tags: [AI, Society, Economics, Whose future is it anyway?]
 description: "AI does not arrive evenly. The countries and people without access to capability risk being excluded from the next economic model."
 ---
 

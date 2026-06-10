@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-part-5
 title: "Whose future is it anyway? Part 5: The narrow path to prosperity"
 date: 2026-06-09
 authors: [andyhawkes]
-tags: [AI, Society, Economics]
+tags: [AI, Society, Economics, Whose future is it anyway?]
 description: "A better outcome from AI is possible, but not inevitable. It depends on how we balance capability, agency, speed, and time."
 ---
 

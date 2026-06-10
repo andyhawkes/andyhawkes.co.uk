@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-part-4
 title: "Whose future is it anyway? Part 4: ACE — Asymmetric Corporate Expansion"
 date: 2026-06-02
 authors: [andyhawkes]
-tags: [AI, Economics, Power]
+tags: [AI, Economics, Corporate power, Whose future is it anyway?]
 description: "The biggest risk of AI may not be what it does, but who owns it. As capability concentrates, so does control."
 ---
 

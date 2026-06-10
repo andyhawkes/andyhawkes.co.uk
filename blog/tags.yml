@@ -202,3 +202,8 @@ archived:
   label: Archived
   permalink: /archived
   description: Older archived posts
+
+wfiia:
+  label: Whose future is it anyway?
+  permalink: /whose-future-is-it-anyway
+  description: Whose future is it anyway? A series of posts about the future of technology and society in the age of AI and automation.

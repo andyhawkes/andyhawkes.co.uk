@@ -3,7 +3,7 @@ slug: whose-future-is-it-anyway-part-1
 title: "Whose future is it anyway? Part 1: MAD, MAP, and the illusion of choice"
 date: 2026-05-12
 authors: [andyhawkes]
-tags: [AI, Society, Economics]
+tags: [AI, Society, Economics, Whose future is it anyway?]
 description: "AI could be as fundamentally transformative as the Industrial Revolution, but compressed into years rather than decades. The outcome is not predetermined, and it will not be evenly distributed."
 ---
 

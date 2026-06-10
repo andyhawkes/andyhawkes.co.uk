@@ -104,10 +104,11 @@ It’s how you design systems that can operate across multiple, conflicting time
 
 ## Related blog posts
 
-- [AI is increasing my cognitive load](/blog/ai-is-increasing-cognitive-load)
-- [Shipping AI code - speed isn't everything](/blog/shipping-ai-code)
-- [Does agile really work?](/blog/does-agile-really-work)
+- [Whose future is it anyway? A 5-part series on AI at the macro level](/blog/tags/whose-future-is-it-anyway)
 - [From Knowledge to Judgement: AI and the Next Phase of Work](/blog/ai-judgement-economy)
 - [From Pyramids to Diamonds: Rethinking Engineering Teams](/blog/ai-engineering-team-structure)
 - [Delivery vs Capability: Designing Across Time Horizons](/blog/delivery-vs-capability)
 - [When Time Stops Behaving: AI and Temporal Misalignment](/blog/ai-time-misalignment)
+- [AI is increasing my cognitive load](/blog/ai-is-increasing-cognitive-load)
+- [Shipping AI code - speed isn't everything](/blog/shipping-ai-code)
+- [Does agile really work?](/blog/does-agile-really-work)
