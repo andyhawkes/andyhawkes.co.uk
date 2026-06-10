@@ -27,7 +27,7 @@ It's measured by pride in your work, quality of life, work-life balance, and cog
 
 Somewhere around 20 years ago, I arrived at the fork in the road which faces most technologists as they become more skilled and experienced - become a manager, or remain an individual contributor?
 
-I resisted the management path for a while, prefering to stay "hands on", but as some point the transition became either inevitable, iresisitible, or impractical (or all of the above), and for the last 15+ years I have operated in leadership and executive roles — delivering global projects, managing large engineering footprints, driving product architecture, and scaling pyramidial team structures.
+I resisted the management path for a while, prefering to stay "hands on", but as some point the transition became either inevitable, irresisitible, or impractical (or all of the above), and for the last 15+ years I have operated in leadership and executive roles — delivering global projects, managing large engineering footprints, driving product architecture, and scaling pyramidial team structures.
 
 The standard corporate handbook says that once you reach this level, you stay there. You spend your days navigating shifting political priorities, continuous context-switching, and operational firefighting.
 
@@ -35,7 +35,7 @@ But over years of leading, I have learned how my own brain operates. I am wired 
 
 That came home in rather a profound way recently when I had to take some time off work to deal with stress and support my wife in her grief. The stress part is something that many people would probably resist admitting, but as I took time out to reflect and to wrap up my recent series on the micro- and macro-level impacts of AI, I realised that the modern engineering organization desperately needs something different than traditional pyramid managers.
 
-As AI compresses raw execution and hollows out junior pipelines, [teams are fracturing into smaller, diamond-shaped structures](/blog/ai-engineering-team-structure). Value has migrated entirely away from production speed and toward high-context system judgement.
+As AI compresses raw execution and [hollows out junior pipelines](/blog/ai-engineering-team-structure#the-pipeline-problem-doesnt-go-away), [teams are fracturing into smaller, diamond-shaped structures](/blog/ai-engineering-team-structure). Value has migrated entirely away from production speed and toward [high-context engineering judgement](/blog/ai-judgement-economy).
 
 In the burgeoning age of AI, organizations don't just need people to manage the noise; they need deeply-focussed technical anchors who have the multi-decade experience that builds judgement, scar tissue from having been at the sharp end and survived, and the capability to look at a complex system and prevent fires before they ever start.
 
