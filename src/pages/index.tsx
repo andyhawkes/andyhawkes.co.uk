@@ -105,7 +105,7 @@ export default function Home(): React.ReactElement {
         title="Home"
         description="Personal website of Andy Hawkes: writing, projects, and current thinking on software engineering, delivery, and AI."
       >
-        <main className="container margin-vert--lg home-main-content">
+        <main className="margin-vert--lg home-main-content">
           <section>
             <h1>Engineering leadership for the real world</h1>
             <p>

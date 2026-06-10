@@ -61,6 +61,8 @@
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: var(--ifm-spacing-horizontal);
+  padding-right: var(--ifm-spacing-horizontal);
 }
 
 .career-timeline {
